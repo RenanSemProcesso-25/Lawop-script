@@ -1,0 +1,486 @@
+{
+    "Actua Serviços Compartilhados Ltda": [
+        {
+            "id": 3,
+            "text": "CCR"
+        }
+    ],
+    "ATP - AROUND THE PIER ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA.": [
+        {
+            "id": 4,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "AUTOBAN - Concessionária do Sistema Anhanguera - Bandeirantes S/A": [
+        {
+            "id": 5,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "BARCAS - Barcas S.A. Transportes Marítimos": [
+        {
+            "id": 6,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "BH AIRPORT - Concessionária do Aeroporto Internacional de Confins S/A": [
+        {
+            "id": 101,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Aeroporto Goiânia GYN/SBGO": [
+        {
+            "id": 17,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Aeroporto Imperatriz IMP/SBIZ": [
+        {
+            "id": 18,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Aeroporto Palmas PMW/SBPJ": [
+        {
+            "id": 22,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Aeroporto Petrolina PNZ/SBPL": [
+        {
+            "id": 25,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Aeroporto São Luís  SLZ/SBSL": [
+        {
+            "id": 27,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Aeroporto Teresina THE/SBTE": [
+        {
+            "id": 28,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Central - Matriz": [
+        {
+            "id": 9,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Bacacheri BFH/SBBI": [
+        {
+            "id": 14,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Bagé BGX/SBBG": [
+        {
+            "id": 12,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Curitiba CWB/SBCT": [
+        {
+            "id": 11,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Foz do Iguaçu IGU/SBFI": [
+        {
+            "id": 15,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Joinville JOI/SBJV": [
+        {
+            "id": 19,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Londrina LDB/SBLO": [
+        {
+            "id": 20,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Navegantes NVT/SBNF": [
+        {
+            "id": 21,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Pelotas PET/SBPK": [
+        {
+            "id": 24,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Aeroporto Uruguaiana URG/SBUG": [
+        {
+            "id": 29,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Bloco Sul - Matriz": [
+        {
+            "id": 10,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "CCR AEROPORTOS BLOCO CENTRAL - MATRIZ": [
+        {
+            "id": 221,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "CCR BRASILIA - CCR S/A": [
+        {
+            "id": 13,
+            "text": "CCR"
+        }
+    ],
+    "CCR PALMAS - PMW /SBPJ": [],
+    "CCR S.A.": [
+        {
+            "id": 26,
+            "text": "CCR"
+        }
+    ],
+    "CEOP - Consórcio de Engenharia do Oeste Paulista": [
+        {
+            "id": 30,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "CIIS - Companhia de Investimentos em Infraestrutura e Serviços": [
+        {
+            "id": 31,
+            "text": "CCR"
+        }
+    ],
+    "COMPANHIA OPERADORA DE RODOVIAS": [],
+    "Concessionária das Linhas 8 e 9 do Sistema de Trens Metropolitanos de São Paulo S.A.": [
+        {
+            "id": 32,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "CONCESSIONÁRIA DE RODOVIAS PRVIAS S.A.": [
+        {
+            "id": 181,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "Concessionária Rota Sorocabana S.A.": [
+        {
+            "id": 161,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "Consórcio Construban": [
+        {
+            "id": 33,
+            "text": "OUTROS"
+        }
+    ],
+    "Consórcio Construtor Parques": [
+        {
+            "id": 34,
+            "text": "OUTROS"
+        }
+    ],
+    "Consórcio Mobilidade Bahia": [
+        {
+            "id": 35,
+            "text": "OUTROS"
+        }
+    ],
+    "Consórcio Operador Parques": [
+        {
+            "id": 36,
+            "text": "OUTROS"
+        }
+    ],
+    "Consórcio Operador Rodovias Integradas": [
+        {
+            "id": 37,
+            "text": "OUTROS"
+        }
+    ],
+    "CONTROLAR S.A.": [
+        {
+            "id": 38,
+            "text": "OUTROS"
+        }
+    ],
+    "COPER - Consórcio Operador da Rodovia Presidente Dutra": [
+        {
+            "id": 39,
+            "text": "OUTROS"
+        }
+    ],
+    "COR - Companhia Operadora de Rodovias": [
+        {
+            "id": 40,
+            "text": "OUTROS"
+        }
+    ],
+    "CPA - Companhia de Participações Aeroportuárias": [
+        {
+            "id": 41,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "CPC - Companhia de Participações em Concessões": [
+        {
+            "id": 42,
+            "text": "CCR"
+        }
+    ],
+    "CPC ENGELOG - Companhia de Participações em Concessões": [
+        {
+            "id": 43,
+            "text": "CCR"
+        }
+    ],
+    "CPC ENGELOGTEC - Companhia de Participações em Concessões": [
+        {
+            "id": 44,
+            "text": "CCR"
+        }
+    ],
+    "CVV - Consórcio Vila Velha": [
+        {
+            "id": 45,
+            "text": "OUTROS"
+        }
+    ],
+    "ENGELOG - Centro de Engenharia Ltda.": [
+        {
+            "id": 46,
+            "text": "CCR"
+        }
+    ],
+    "FIVE TRILHOS - Five Trilhos S.A.": [
+        {
+            "id": 47,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "FOUR TRILHOS ADMINISTRACAO E PARTICIPACOES S.A.": [
+        {
+            "id": 48,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "INFRA SP - Infra SP Participações e Concessões S.A.": [
+        {
+            "id": 49,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "INOVAP 5 - Inovap 5 Administração e Participações Ltda.": [
+        {
+            "id": 50,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "INSTITUTO CCR": [
+        {
+            "id": 51,
+            "text": "CCR"
+        }
+    ],
+    "LAM VIAS - LamVias Participações e Concessões S.A.": [
+        {
+            "id": 52,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "METRO BAHIA - Companhia do Metrô da Bahia": [
+        {
+            "id": 53,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "Motiva - CSC": [
+        {
+            "id": 16,
+            "text": "CCR"
+        }
+    ],
+    "MOTIVA - Motiva Infraestrutura de Mobilidade S.A.": [
+        {
+            "id": 8,
+            "text": "CCR"
+        }
+    ],
+    "MPC - Mobilidade Participações e Concessões S.A.": [
+        {
+            "id": 121,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "MSVIA - Concessionária de Rodovia Sul-Matogrossense": [
+        {
+            "id": 141,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        },
+        {
+            "id": 55,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "NOVADUTRA - Concessionária da Rodovia Presidente Dutra S/A": [
+        {
+            "id": 56,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "ON TRILHOS - ADMINISTRACAO E PARTICIPACOES S.A.": [
+        {
+            "id": 57,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "Pampulha - PLU/SBBH": [
+        {
+            "id": 23,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "Parques Serviços Ltda.": [
+        {
+            "id": 58,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "PONTE - Concessionária da Ponte Rio-Niterói S/A": [
+        {
+            "id": 59,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "RENOVIAS - Renovias Concessionária S/A": [
+        {
+            "id": 60,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "RIOSP - Concessionária do Sistema Rodoviário Rio - São Paulo S.A": [
+        {
+            "id": 61,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "RODOANEL - Concessionária do RodoAnel Oeste S/A": [
+        {
+            "id": 62,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "RODONORTE - Concessionária de Rodovias Integradas S/A": [
+        {
+            "id": 63,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "RS Holding e Participações S.A.": [
+        {
+            "id": 201,
+            "text": "CCR"
+        }
+    ],
+    "SAMM - Sociedade de Atividades em Multimídia Ltda": [
+        {
+            "id": 1,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        },
+        {
+            "id": 102,
+            "text": "OUTROS"
+        }
+    ],
+    "SPAC - Sociedade de Participações no Aeroporto de Confins S/A": [
+        {
+            "id": 64,
+            "text": "AEROPORTOS"
+        }
+    ],
+    "SPCP - Sociedade de Participações em Concessões Públicas S.A.": [
+        {
+            "id": 65,
+            "text": "CCR"
+        }
+    ],
+    "SPVIAS - Rodovias Integradas do Oeste S/A": [
+        {
+            "id": 66,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "TORONTO - Toronto S.A. - Desenvolvimento e Participações": [
+        {
+            "id": 2,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "VIA MOBILIDADE L15 - Concessionária da Linha 15 do Metro de São Paulo S.A": [
+        {
+            "id": 67,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "VIA MOBILIDADE L5 E L17 - Concessionária das Linhas 5 e 17 do Metrô de São Paulo": [
+        {
+            "id": 68,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "VIACOSTEIRA - Concessionária Catarinense de Rodovias S.A.": [
+        {
+            "id": 69,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "VIALAGOS - Concessionária da Rodovia dos Lagos S/A": [
+        {
+            "id": 70,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "VIAOESTE - Concessionária de Rodovias do Oeste de São Paulo": [
+        {
+            "id": 71,
+            "text": "CCR RODOVIAS - ESTADUAIS"
+        }
+    ],
+    "VIAQUATRO - Concessionária da Linha 4 do Metrô de São Paulo": [
+        {
+            "id": 72,
+            "text": "MOBILIDADE"
+        }
+    ],
+    "VIARIO - Concessionária ViaRio S.A": [
+        {
+            "id": 73,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "VIASUL - Concessionária das Rodovias Integradas do Sul S.A.": [
+        {
+            "id": 74,
+            "text": "CCR RODOVIAS - FEDERAIS"
+        }
+    ],
+    "VLT - Concessionária do VLT Carioca": [
+        {
+            "id": 75,
+            "text": "MOBILIDADE"
+        }
+    ]
+}

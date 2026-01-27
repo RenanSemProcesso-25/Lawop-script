@@ -1,0 +1,2076 @@
+{
+    "Cível": [
+        {
+            "id": 3930,
+            "text": "Alfandega - BFH/SBBI"
+        },
+        {
+            "id": 3904,
+            "text": "Alfandega - Bloco Central"
+        },
+        {
+            "id": 3916,
+            "text": "Alfandega - CWB/SBCT"
+        },
+        {
+            "id": 3952,
+            "text": "Alfandega - GYN/SBGO"
+        },
+        {
+            "id": 3965,
+            "text": "Alfandega - IMP/SBIZ"
+        },
+        {
+            "id": 3979,
+            "text": "Alfandega - JOI/SBJV"
+        },
+        {
+            "id": 3993,
+            "text": "Alfandega - LDB/SBLO"
+        },
+        {
+            "id": 4005,
+            "text": "Alfandega - NVT/SBNF"
+        },
+        {
+            "id": 4019,
+            "text": "Alfandega - PMW/SBPJ"
+        },
+        {
+            "id": 4047,
+            "text": "Alfandega - PNZ/SBPL"
+        },
+        {
+            "id": 4033,
+            "text": "Alfandega - SBBH"
+        },
+        {
+            "id": 4059,
+            "text": "Alfandega - SLZ/SBSL"
+        },
+        {
+            "id": 4072,
+            "text": "Alfandega - THE/SBTE"
+        },
+        {
+            "id": 4086,
+            "text": "Alfandega - URG/SBUG"
+        },
+        {
+            "id": 3477,
+            "text": "Área não operacional - Pátio e Pista"
+        },
+        {
+            "id": 3921,
+            "text": "Área não operacional – Pátio e Pista - BFH/SBBI"
+        },
+        {
+            "id": 3895,
+            "text": "Área não operacional – Pátio e Pista - Bloco Central"
+        },
+        {
+            "id": 3909,
+            "text": "Área não operacional – Pátio e Pista - CWB/SBCT"
+        },
+        {
+            "id": 3945,
+            "text": "Área não operacional – Pátio e Pista - GYN/SBGO"
+        },
+        {
+            "id": 3934,
+            "text": "Área não operacional – Pátio e Pista - IGU/SBFI"
+        },
+        {
+            "id": 3956,
+            "text": "Área não operacional – Pátio e Pista - IMP/SBIZ"
+        },
+        {
+            "id": 3970,
+            "text": "Área não operacional – Pátio e Pista - JOI/SBJV"
+        },
+        {
+            "id": 3984,
+            "text": "Área não operacional – Pátio e Pista - LDB/SBLO"
+        },
+        {
+            "id": 3409,
+            "text": "Área não operacional – Pátio e Pista - NVT/SBNF"
+        },
+        {
+            "id": 4010,
+            "text": "Área não operacional – Pátio e Pista - PMW/SBPJ"
+        },
+        {
+            "id": 4038,
+            "text": "Área não operacional – Pátio e Pista - PNZ/SBPL"
+        },
+        {
+            "id": 4024,
+            "text": "Área não operacional – Pátio e Pista - SBBH"
+        },
+        {
+            "id": 4052,
+            "text": "Área não operacional – Pátio e Pista - SLZ/SBSL"
+        },
+        {
+            "id": 4064,
+            "text": "Área não operacional – Pátio e Pista - THE/SBTE"
+        },
+        {
+            "id": 4077,
+            "text": "Área não operacional – Pátio e Pista - URG/SBUG"
+        },
+        {
+            "id": 3920,
+            "text": "Área Operacional - Pátio e Pista - BFH/SBBI"
+        },
+        {
+            "id": 3894,
+            "text": "Área Operacional - Pátio e Pista - Bloco Central"
+        },
+        {
+            "id": 3908,
+            "text": "Área Operacional - Pátio e Pista - CWB/SBCT"
+        },
+        {
+            "id": 3944,
+            "text": "Área Operacional - Pátio e Pista - GYN/SBGO"
+        },
+        {
+            "id": 3429,
+            "text": "Área Operacional - Pátio e Pista - IGU/SBFI"
+        },
+        {
+            "id": 3955,
+            "text": "Área Operacional - Pátio e Pista - IMP/SBIZ"
+        },
+        {
+            "id": 3969,
+            "text": "Área Operacional - Pátio e Pista - JOI/SBJV"
+        },
+        {
+            "id": 3983,
+            "text": "Área Operacional - Pátio e Pista - LDB/SBLO"
+        },
+        {
+            "id": 3997,
+            "text": "Área Operacional - Pátio e Pista - NVT/SBNF"
+        },
+        {
+            "id": 4009,
+            "text": "Área Operacional - Pátio e Pista - PMW/SBPJ"
+        },
+        {
+            "id": 4037,
+            "text": "Área Operacional - Pátio e Pista - PNZ/SBPL"
+        },
+        {
+            "id": 4023,
+            "text": "Área Operacional - Pátio e Pista - SBBH"
+        },
+        {
+            "id": 4051,
+            "text": "Área Operacional - Pátio e Pista - SLZ/SBSL"
+        },
+        {
+            "id": 4063,
+            "text": "Área Operacional - Pátio e Pista - THE/SBTE"
+        },
+        {
+            "id": 4076,
+            "text": "Área Operacional - Pátio e Pista - URG/SBUG"
+        },
+        {
+            "id": 3277,
+            "text": "Arrecadação"
+        },
+        {
+            "id": 3385,
+            "text": "Atendimento - Gestão dos Terminais de Onibus"
+        },
+        {
+            "id": 4090,
+            "text": "Avenida Luiz Viana Filho - Trecho não atribuído à Concessão - Metro Bahia"
+        },
+        {
+            "id": 4091,
+            "text": "Avenida Paralela - Trecho não atribuído à Concessão - Metro Bahia"
+        },
+        {
+            "id": 3359,
+            "text": "BR 101 - Km 0 ao Km 87,85 - Sul - ViaSul"
+        },
+        {
+            "id": 4137,
+            "text": "BR 101 - Km 87,85 ao Km 0 - Norte - ViaSul"
+        },
+        {
+            "id": 3373,
+            "text": "BR 290 - Km 0 ao Km 98,10 - Oeste - ViaSul"
+        },
+        {
+            "id": 4139,
+            "text": "BR 290 - Km 98,10 ao Km 0 - Leste - ViaSul"
+        },
+        {
+            "id": 4183,
+            "text": "BR 386 - km 178,50 ao Km 444,30 - Norte - ViaSul"
+        },
+        {
+            "id": 3290,
+            "text": "BR 386 - Km 178,50 ao Km 444,30 - Sul - ViaSul"
+        },
+        {
+            "id": 3371,
+            "text": "BR 386 - Km 444,30 ao Km 178,50 - Norte - ViaSul"
+        },
+        {
+            "id": 3376,
+            "text": "BR 448 - Km 0,45 ao Km 22,07 - Sul - ViaSul"
+        },
+        {
+            "id": 3924,
+            "text": "Check In - BFH/SBBI"
+        },
+        {
+            "id": 3898,
+            "text": "Check In - Bloco Central"
+        },
+        {
+            "id": 3431,
+            "text": "Check In - CWB/SBCT"
+        },
+        {
+            "id": 3946,
+            "text": "Check In - GYN/SBGO"
+        },
+        {
+            "id": 3936,
+            "text": "Check In - IGU/SBFI"
+        },
+        {
+            "id": 3959,
+            "text": "Check In - IMP/SBIZ"
+        },
+        {
+            "id": 3973,
+            "text": "Check In - JOI/SBJV"
+        },
+        {
+            "id": 3987,
+            "text": "Check In - LDB/SBLO"
+        },
+        {
+            "id": 4000,
+            "text": "Check In - NVT/SBNF"
+        },
+        {
+            "id": 4013,
+            "text": "Check In - PMW/SBPJ"
+        },
+        {
+            "id": 4041,
+            "text": "Check In - PNZ/SBPL"
+        },
+        {
+            "id": 4027,
+            "text": "Check In - SBBH"
+        },
+        {
+            "id": 3436,
+            "text": "Check In - SLZ/SBSL"
+        },
+        {
+            "id": 4066,
+            "text": "Check In - THE/SBTE"
+        },
+        {
+            "id": 4080,
+            "text": "Check In - URG/SBUG"
+        },
+        {
+            "id": 3438,
+            "text": "Contabilidade"
+        },
+        {
+            "id": 3890,
+            "text": "Embarcações - Barcas"
+        },
+        {
+            "id": 3427,
+            "text": "Estação - Brooklin - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3521,
+            "text": "Estação - Campo Limpo - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3323,
+            "text": "Estação - Chácara Klabin - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3433,
+            "text": "Estação - Eucaliptos - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3416,
+            "text": "Estação - Giovanni Gronchi - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3441,
+            "text": "Estação - Largo Treze - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3423,
+            "text": "Estação - Santa Cruz - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3501,
+            "text": "Estação - Santo Amaro - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3418,
+            "text": "Estação Antonio João - Linhas 8 e 9"
+        },
+        {
+            "id": 3326,
+            "text": "Estação Arariboia - Barcas"
+        },
+        {
+            "id": 3421,
+            "text": "Estação Barueri - Linhas 8 e 9"
+        },
+        {
+            "id": 3365,
+            "text": "Estação Cocotá - Barcas"
+        },
+        {
+            "id": 3435,
+            "text": "Estação Domingos de Moraes - Linhas 8 e 9"
+        },
+        {
+            "id": 3432,
+            "text": "Estação Engenheiro Cardoso - Linhas 8 e 9"
+        },
+        {
+            "id": 3401,
+            "text": "Estação General Miguel Costa - Linhas 8 e 9"
+        },
+        {
+            "id": 3382,
+            "text": "Estação Grajaú - On Trilhos"
+        },
+        {
+            "id": 3408,
+            "text": "Estação Hebraica - Rebouças - Linhas 8 e 9"
+        },
+        {
+            "id": 3444,
+            "text": "Estação Itapevi"
+        },
+        {
+            "id": 3386,
+            "text": "Estação Jardim Silveira - Linhas 8 e 9"
+        },
+        {
+            "id": 3502,
+            "text": "Estação Mendes - Vila Natal - Linhas 8 e 9"
+        },
+        {
+            "id": 4089,
+            "text": "Estação Osasco - Linhas 8 e 9"
+        },
+        {
+            "id": 3407,
+            "text": "Estação Palmeiras - Barra Funda - Linhas 8 e 9"
+        },
+        {
+            "id": 3886,
+            "text": "Estação Paquetá - Barcas"
+        },
+        {
+            "id": 4222,
+            "text": "Estação Paulista"
+        },
+        {
+            "id": 3390,
+            "text": "Estação Pinheiros - Linhas 8 e 9"
+        },
+        {
+            "id": 4221,
+            "text": "Estação Pinheiros - ViaQuatro"
+        },
+        {
+            "id": 3344,
+            "text": "Estação Praça xv - Barcas"
+        },
+        {
+            "id": 3419,
+            "text": "Estação Santo Amaro - Linhas 8 e 9"
+        },
+        {
+            "id": 3425,
+            "text": "Estação Socorro - Linhas 8 e 9"
+        },
+        {
+            "id": 3420,
+            "text": "Estação Vila Lobos - Jaguaré - Linhas 8 e 9"
+        },
+        {
+            "id": 3931,
+            "text": "Estacionamento - BFH/SBBI"
+        },
+        {
+            "id": 3905,
+            "text": "Estacionamento - Bloco Central"
+        },
+        {
+            "id": 3917,
+            "text": "Estacionamento - CWB/SBCT"
+        },
+        {
+            "id": 3437,
+            "text": "Estacionamento - GYN/SBGO"
+        },
+        {
+            "id": 3415,
+            "text": "Estacionamento - IGU/SBFI"
+        },
+        {
+            "id": 3966,
+            "text": "Estacionamento - IMP/SBIZ"
+        },
+        {
+            "id": 3980,
+            "text": "Estacionamento - JOI/SBJV"
+        },
+        {
+            "id": 3994,
+            "text": "Estacionamento - LDB/SBLO"
+        },
+        {
+            "id": 4006,
+            "text": "Estacionamento - NVT/SBNF"
+        },
+        {
+            "id": 4020,
+            "text": "Estacionamento - PMW/SBPJ"
+        },
+        {
+            "id": 4048,
+            "text": "Estacionamento - PNZ/SBPL"
+        },
+        {
+            "id": 4034,
+            "text": "Estacionamento - SBBH"
+        },
+        {
+            "id": 4060,
+            "text": "Estacionamento - SLZ/SBSL"
+        },
+        {
+            "id": 4073,
+            "text": "Estacionamento - THE/SBTE"
+        },
+        {
+            "id": 4087,
+            "text": "Estacionamento - URG/SBUG"
+        },
+        {
+            "id": 3891,
+            "text": "Estações - Barcas"
+        },
+        {
+            "id": 3925,
+            "text": "Finger / Escada Rolante / Esteira Rolante - BFH/SBBI"
+        },
+        {
+            "id": 3899,
+            "text": "Finger / Escada Rolante / Esteira Rolante - Bloco Central"
+        },
+        {
+            "id": 3911,
+            "text": "Finger / Escada Rolante / Esteira Rolante - CWB/SBCT"
+        },
+        {
+            "id": 3947,
+            "text": "Finger / Escada Rolante / Esteira Rolante - GYN/SBGO"
+        },
+        {
+            "id": 3937,
+            "text": "Finger / Escada Rolante / Esteira Rolante - IGU/SBFI"
+        },
+        {
+            "id": 3960,
+            "text": "Finger / Escada Rolante / Esteira Rolante - IMP/SBIZ"
+        },
+        {
+            "id": 3974,
+            "text": "Finger / Escada Rolante / Esteira Rolante - JOI/SBJV"
+        },
+        {
+            "id": 3988,
+            "text": "Finger / Escada Rolante / Esteira Rolante - LDB/SBLO"
+        },
+        {
+            "id": 4001,
+            "text": "Finger / Escada Rolante / Esteira Rolante - NVT/SBNF"
+        },
+        {
+            "id": 4014,
+            "text": "Finger / Escada Rolante / Esteira Rolante - PMW/SBPJ"
+        },
+        {
+            "id": 4042,
+            "text": "Finger / Escada Rolante / Esteira Rolante - PNZ/SBPL"
+        },
+        {
+            "id": 4028,
+            "text": "Finger / Escada Rolante / Esteira Rolante - SBBH"
+        },
+        {
+            "id": 4054,
+            "text": "Finger / Escada Rolante / Esteira Rolante - SLZ/SBSL"
+        },
+        {
+            "id": 4067,
+            "text": "Finger / Escada Rolante / Esteira Rolante - THE/SBTE"
+        },
+        {
+            "id": 4081,
+            "text": "Finger / Escada Rolante / Esteira Rolante - URG/SBUG"
+        },
+        {
+            "id": 3311,
+            "text": "Fora da Área de Concessão"
+        },
+        {
+            "id": 3887,
+            "text": "Gavea - HC-18 - Barcas"
+        },
+        {
+            "id": 3364,
+            "text": "Harpia - HSC - Barcas"
+        },
+        {
+            "id": 3929,
+            "text": "Imigração - BFH/SBBI"
+        },
+        {
+            "id": 3903,
+            "text": "Imigração - Bloco Central"
+        },
+        {
+            "id": 3915,
+            "text": "Imigração - CWB/SBCT"
+        },
+        {
+            "id": 3951,
+            "text": "Imigração - GYN/SBGO"
+        },
+        {
+            "id": 3941,
+            "text": "Imigração - IGU/SBFI"
+        },
+        {
+            "id": 3964,
+            "text": "Imigração - IMP/SBIZ"
+        },
+        {
+            "id": 3978,
+            "text": "Imigração - JOI/SBJV"
+        },
+        {
+            "id": 3992,
+            "text": "Imigração - LDB/SBLO"
+        },
+        {
+            "id": 4004,
+            "text": "Imigração - NVT/SBNF"
+        },
+        {
+            "id": 4018,
+            "text": "Imigração - PMW/SBPJ"
+        },
+        {
+            "id": 4046,
+            "text": "Imigração - PNZ/SBPL"
+        },
+        {
+            "id": 4032,
+            "text": "Imigração - SBBH"
+        },
+        {
+            "id": 4058,
+            "text": "Imigração - SLZ/SBSL"
+        },
+        {
+            "id": 4071,
+            "text": "Imigração - THE/SBTE"
+        },
+        {
+            "id": 4085,
+            "text": "Imigração - URG/SBUG"
+        },
+        {
+            "id": 4092,
+            "text": "Linha 1 : Lapa/Pirajá - Metro Bahia"
+        },
+        {
+            "id": 3335,
+            "text": "Linha 2 : Acesso Norte/Aeroporto - Metro Bahia"
+        },
+        {
+            "id": 3926,
+            "text": "Lojas / Quiosques – Lado Ar - BFH/SBBI"
+        },
+        {
+            "id": 3900,
+            "text": "Lojas / Quiosques – Lado Ar - Bloco Central"
+        },
+        {
+            "id": 3912,
+            "text": "Lojas / Quiosques – Lado Ar - CWB/SBCT"
+        },
+        {
+            "id": 3948,
+            "text": "Lojas / Quiosques – Lado Ar - GYN/SBGO"
+        },
+        {
+            "id": 3938,
+            "text": "Lojas / Quiosques – Lado Ar - IGU/SBFI"
+        },
+        {
+            "id": 3961,
+            "text": "Lojas / Quiosques – Lado Ar - IMP/SBIZ"
+        },
+        {
+            "id": 3975,
+            "text": "Lojas / Quiosques – Lado Ar - JOI/SBJV"
+        },
+        {
+            "id": 3989,
+            "text": "Lojas / Quiosques – Lado Ar - LDB/SBLO"
+        },
+        {
+            "id": 4002,
+            "text": "Lojas / Quiosques – Lado Ar - NVT/SBNF"
+        },
+        {
+            "id": 4015,
+            "text": "Lojas / Quiosques – Lado Ar - PMW/SBPJ"
+        },
+        {
+            "id": 4043,
+            "text": "Lojas / Quiosques – Lado Ar - PNZ/SBPL"
+        },
+        {
+            "id": 4029,
+            "text": "Lojas / Quiosques – Lado Ar - SBBH"
+        },
+        {
+            "id": 4055,
+            "text": "Lojas / Quiosques – Lado Ar - SLZ/SBSL"
+        },
+        {
+            "id": 4068,
+            "text": "Lojas / Quiosques – Lado Ar - THE/SBTE"
+        },
+        {
+            "id": 4082,
+            "text": "Lojas / Quiosques – Lado Ar - URG/SBUG"
+        },
+        {
+            "id": 3263,
+            "text": "Não se Aplica"
+        },
+        {
+            "id": 3888,
+            "text": "Neves - HC-18 - Barcas"
+        },
+        {
+            "id": 3362,
+            "text": "Operação"
+        },
+        {
+            "id": 3374,
+            "text": "Pão de Açucar - US - 2000 - Barcas"
+        },
+        {
+            "id": 4144,
+            "text": "Parada Antônio Carlos - VLT"
+        },
+        {
+            "id": 4154,
+            "text": "Parada Camerino - Rosas Negras - VLT"
+        },
+        {
+            "id": 4149,
+            "text": "Parada Candelária - VLT"
+        },
+        {
+            "id": 3404,
+            "text": "Parada Carioca - VLT"
+        },
+        {
+            "id": 4161,
+            "text": "Parada Central - VLT"
+        },
+        {
+            "id": 4159,
+            "text": "Parada Cidade do Samba - VLT"
+        },
+        {
+            "id": 4145,
+            "text": "Parada Cinelândia - VLT"
+        },
+        {
+            "id": 4148,
+            "text": "Parada Colombo - VLT"
+        },
+        {
+            "id": 4166,
+            "text": "Parada Cordeiro da Graça - VLT"
+        },
+        {
+            "id": 4156,
+            "text": "Parada Cristiano Ottoni - Pequena África - VLT"
+        },
+        {
+            "id": 4153,
+            "text": "Parada dos Museus - VLT"
+        },
+        {
+            "id": 4155,
+            "text": "Parada dos Navios - Valongo - VLT"
+        },
+        {
+            "id": 4167,
+            "text": "Parada Equador - VLT"
+        },
+        {
+            "id": 4163,
+            "text": "Parada Gamboa - VLT"
+        },
+        {
+            "id": 4158,
+            "text": "Parada Harmonia - VLT"
+        },
+        {
+            "id": 4165,
+            "text": "Parada Pereira Reis - VLT"
+        },
+        {
+            "id": 4147,
+            "text": "Parada Praça XV - VLT"
+        },
+        {
+            "id": 4168,
+            "text": "Parada Praia Formosa - VLT"
+        },
+        {
+            "id": 4160,
+            "text": "Parada Providência - VLT"
+        },
+        {
+            "id": 3387,
+            "text": "Parada Rodoviária - VLT"
+        },
+        {
+            "id": 3391,
+            "text": "Parada Saara - VLT"
+        },
+        {
+            "id": 4151,
+            "text": "Parada Santa Rita - Pretos Novos - VLT"
+        },
+        {
+            "id": 4162,
+            "text": "Parada Santo Cristo - VLT"
+        },
+        {
+            "id": 4143,
+            "text": "Parada Santos Dumont - VLT"
+        },
+        {
+            "id": 4152,
+            "text": "Parada São Bento - VLT"
+        },
+        {
+            "id": 4146,
+            "text": "Parada Sete de Setembro - VLT"
+        },
+        {
+            "id": 4169,
+            "text": "Parada Terminal Intermodal Gentileza - VLT"
+        },
+        {
+            "id": 4150,
+            "text": "Parada Tiradentes - VLT"
+        },
+        {
+            "id": 4157,
+            "text": "Parada Utopia - AquaRio - VLT"
+        },
+        {
+            "id": 4164,
+            "text": "Parada Vila Olímpica - VLT"
+        },
+        {
+            "id": 4114,
+            "text": "Pedágio - Free Flow BR 101 - RioSP"
+        },
+        {
+            "id": 4121,
+            "text": "Pedágio Automático - ViaLagos"
+        },
+        {
+            "id": 3366,
+            "text": "Píer Angra dos Reis - Barcas"
+        },
+        {
+            "id": 3922,
+            "text": "Portão de Embarque de Passageiros - BFH/SBBI"
+        },
+        {
+            "id": 3896,
+            "text": "Portão de Embarque de Passageiros - Bloco Central"
+        },
+        {
+            "id": 3910,
+            "text": "Portão de Embarque de Passageiros - CWB/SBCT"
+        },
+        {
+            "id": 3424,
+            "text": "Portão de Embarque de Passageiros - GYN/SBGO"
+        },
+        {
+            "id": 3410,
+            "text": "Portão de Embarque de Passageiros - IGU/SBFI"
+        },
+        {
+            "id": 3957,
+            "text": "Portão de Embarque de Passageiros - IMP/SBIZ"
+        },
+        {
+            "id": 3971,
+            "text": "Portão de Embarque de Passageiros - JOI/SBJV"
+        },
+        {
+            "id": 3985,
+            "text": "Portão de Embarque de Passageiros - LDB/SBLO"
+        },
+        {
+            "id": 3998,
+            "text": "Portão de Embarque de Passageiros - NVT/SBNF"
+        },
+        {
+            "id": 4011,
+            "text": "Portão de Embarque de Passageiros - PMW/SBPJ"
+        },
+        {
+            "id": 4039,
+            "text": "Portão de Embarque de Passageiros - PNZ/SBPL"
+        },
+        {
+            "id": 4025,
+            "text": "Portão de Embarque de Passageiros - SBBH"
+        },
+        {
+            "id": 3426,
+            "text": "Portão de Embarque de Passageiros - SLZ/SBSL"
+        },
+        {
+            "id": 4065,
+            "text": "Portão de Embarque de Passageiros - THE/SBTE"
+        },
+        {
+            "id": 4078,
+            "text": "Portão de Embarque de Passageiros - URG/SBUG"
+        },
+        {
+            "id": 3923,
+            "text": "Raio X / Inspeção de Segurança - BFH/SBBI"
+        },
+        {
+            "id": 3897,
+            "text": "Raio X / Inspeção de Segurança - Bloco Central"
+        },
+        {
+            "id": 3439,
+            "text": "Raio X / Inspeção de Segurança - CWB/SBCT"
+        },
+        {
+            "id": 3411,
+            "text": "Raio X / Inspeção de Segurança - GYN/SBGO"
+        },
+        {
+            "id": 3935,
+            "text": "Raio X / Inspeção de Segurança - IGU/SBFI"
+        },
+        {
+            "id": 3958,
+            "text": "Raio X / Inspeção de Segurança - IMP/SBIZ"
+        },
+        {
+            "id": 3972,
+            "text": "Raio X / Inspeção de Segurança - JOI/SBJV"
+        },
+        {
+            "id": 3986,
+            "text": "Raio X / Inspeção de Segurança - LDB/SBLO"
+        },
+        {
+            "id": 3999,
+            "text": "Raio X / Inspeção de Segurança - NVT/SBNF"
+        },
+        {
+            "id": 4012,
+            "text": "Raio X / Inspeção de Segurança - PMW/SBPJ"
+        },
+        {
+            "id": 4040,
+            "text": "Raio X / Inspeção de Segurança - PNZ/SBPL"
+        },
+        {
+            "id": 4026,
+            "text": "Raio X / Inspeção de Segurança - SBBH"
+        },
+        {
+            "id": 4053,
+            "text": "Raio X / Inspeção de Segurança - SLZ/SBSL"
+        },
+        {
+            "id": 3428,
+            "text": "Raio X / Inspeção de Segurança - THE/SBTE"
+        },
+        {
+            "id": 4079,
+            "text": "Raio X / Inspeção de Segurança - URG/SBUG"
+        },
+        {
+            "id": 3287,
+            "text": "Regional 1 - BR 277 - Km 555 ao 487 (Ambos os Sentidos) - RodoNorte"
+        },
+        {
+            "id": 3317,
+            "text": "Regional 2 - PR 151 - BR 373 ou PR 373 (Ambos os Sentidos) - RodoNorte"
+        },
+        {
+            "id": 3295,
+            "text": "Regional 3 - BR 376 - Km 476 ao Km 232 (Ambos os Sentidos) - RodoNorte"
+        },
+        {
+            "id": 3927,
+            "text": "Sala Vip - BFH/SBBI"
+        },
+        {
+            "id": 3901,
+            "text": "Sala Vip - Bloco Central"
+        },
+        {
+            "id": 3913,
+            "text": "Sala Vip - CWB/SBCT"
+        },
+        {
+            "id": 3949,
+            "text": "Sala Vip - GYN/SBGO"
+        },
+        {
+            "id": 3939,
+            "text": "Sala Vip - IGU/SBFI"
+        },
+        {
+            "id": 3962,
+            "text": "Sala Vip - IMP/SBIZ"
+        },
+        {
+            "id": 3976,
+            "text": "Sala Vip - JOI/SBJV"
+        },
+        {
+            "id": 3990,
+            "text": "Sala Vip - LDB/SBLO"
+        },
+        {
+            "id": 3405,
+            "text": "Sala Vip - NVT/SBNF"
+        },
+        {
+            "id": 4016,
+            "text": "Sala Vip - PMW/SBPJ"
+        },
+        {
+            "id": 4044,
+            "text": "Sala Vip - PNZ/SBPL"
+        },
+        {
+            "id": 4030,
+            "text": "Sala Vip - SBBH"
+        },
+        {
+            "id": 4056,
+            "text": "Sala Vip - SLZ/SBSL"
+        },
+        {
+            "id": 4069,
+            "text": "Sala Vip - THE/SBTE"
+        },
+        {
+            "id": 4083,
+            "text": "Sala Vip - URG/SBUG"
+        },
+        {
+            "id": 3372,
+            "text": "SC - BR - 101 - Km 245,000 ao Km 465,072 - Sul - ViaCosteira"
+        },
+        {
+            "id": 3375,
+            "text": "SC - BR - 101 - Km 465,072 ao Km 245,000 - Norte - ViaCosteira"
+        },
+        {
+            "id": 3282,
+            "text": "Sentido Norte - Ponte"
+        },
+        {
+            "id": 3303,
+            "text": "Sentido Norte - ViaLagos"
+        },
+        {
+            "id": 3267,
+            "text": "Sentido Sul - Ponte"
+        },
+        {
+            "id": 3268,
+            "text": "Sentido Sul - ViaLagos"
+        },
+        {
+            "id": 3861,
+            "text": "SP - 102 - Adalberto Panzan - AutoBAn"
+        },
+        {
+            "id": 3336,
+            "text": "SP - 215 Leste - Renovias"
+        },
+        {
+            "id": 3413,
+            "text": "SP - 215 Oeste - Renovias"
+        },
+        {
+            "id": 3863,
+            "text": "SP - 330 - Sub Trecho - Km 105 ao Km 128 - Norte - AutoBAn"
+        },
+        {
+            "id": 3462,
+            "text": "SP - 330 - Sub Trecho - Km 105 ao Km 128 - Sul -AutoBAn"
+        },
+        {
+            "id": 3332,
+            "text": "SP - 330 - Sub Trecho - Km 11 + 460 ao Km 25 - Norte - AutoBAn"
+        },
+        {
+            "id": 3865,
+            "text": "SP - 330 - Sub Trecho - Km 11 + 460 ao Km 25 - Sul - AutoBAn"
+        },
+        {
+            "id": 3318,
+            "text": "SP - 330 - Sub Trecho - Km 129 ao Km 158 - Norte - AutoBAn"
+        },
+        {
+            "id": 3313,
+            "text": "SP - 330 - Sub Trecho - Km 129 ao Km 158 - Sul - AutoBAn"
+        },
+        {
+            "id": 4204,
+            "text": "SP - 330 - Sub Trecho - km 26 ao Km 53 - Norte -AutoBAn"
+        },
+        {
+            "id": 3331,
+            "text": "SP - 330 - Sub Trecho - km 26 ao Km 53 - Sul - AutoBAn"
+        },
+        {
+            "id": 3870,
+            "text": "SP - 330 - Sub Trecho - Km 54 ao Km 82 - Norte - AutoBAn"
+        },
+        {
+            "id": 4211,
+            "text": "SP - 330 - Sub Trecho - Km 54 ao Km 82 - Sul -AutoBAn"
+        },
+        {
+            "id": 3301,
+            "text": "SP - 330 - Sub Trecho - Km 83 ao Km 104 - Norte - AutoBAn"
+        },
+        {
+            "id": 3328,
+            "text": "SP - 330 - Sub Trecho - Km 83 ao Km 104 - Sul - AutoBAn"
+        },
+        {
+            "id": 3305,
+            "text": "SP - 340 Norte - Renovias"
+        },
+        {
+            "id": 3293,
+            "text": "SP - 340 Sul - Renovias"
+        },
+        {
+            "id": 3333,
+            "text": "SP - 342 Leste - Renovias"
+        },
+        {
+            "id": 3367,
+            "text": "SP - 342 Oeste - Renovias"
+        },
+        {
+            "id": 3294,
+            "text": "SP - 344 Leste - Renovias"
+        },
+        {
+            "id": 3279,
+            "text": "SP - 344 Oeste - Renovias"
+        },
+        {
+            "id": 3874,
+            "text": "SP - 348 - Sub Trecho - Km 13 ao Km 37 - Norte - AutoBAn"
+        },
+        {
+            "id": 3875,
+            "text": "SP - 348 - Sub Trecho - Km 13 ao Km 37 - Sul - AutoBAn"
+        },
+        {
+            "id": 3876,
+            "text": "SP - 348 - Sub Trecho - Km 135 ao Km 171 - Norte (+ 158 -153) - AutoBAn"
+        },
+        {
+            "id": 3280,
+            "text": "SP - 348 - Sub Trecho - Km 135 ao Km 171 - Sul (+ 158 - 153) - AutoBAn"
+        },
+        {
+            "id": 3878,
+            "text": "SP - 348 - Sub Trecho - Km 38 ao Km 60 - Norte (+SP 300) - AutoBAn"
+        },
+        {
+            "id": 3879,
+            "text": "SP - 348 - Sub Trecho - Km 38 ao Km 60 - Sul (+SP 300) - AutoBAn"
+        },
+        {
+            "id": 3880,
+            "text": "SP - 348 - Sub Trecho - Km 61 ao Km 86 - Norte - AutoBAn"
+        },
+        {
+            "id": 3881,
+            "text": "SP - 348 - Sub Trecho - Km 61 ao Km 86 - Sul - AutoBAn"
+        },
+        {
+            "id": 3882,
+            "text": "SP - 348 - Sub Trecho - Km 87 ao Km 98 - Norte (+ SP 102) - AutoBAn"
+        },
+        {
+            "id": 3883,
+            "text": "SP - 348 - Sub Trecho - Km 87 ao Km 98 - Sul (+ SP 102) - AutoBAn"
+        },
+        {
+            "id": 3884,
+            "text": "SP - 348 - Sub Trecho - Km 99 ao Km 134 - Norte - AutoBAn"
+        },
+        {
+            "id": 3885,
+            "text": "SP - 348 - Sub Trecho - Km 99 ao Km 134 - Sul - AutoBAn"
+        },
+        {
+            "id": 3368,
+            "text": "SP - 350 Norte - Renovias"
+        },
+        {
+            "id": 3338,
+            "text": "SP - 350 Sul - Renovias"
+        },
+        {
+            "id": 3342,
+            "text": "SP 075 - CASTELINHO - Ambos os Sentidos - ViaOeste"
+        },
+        {
+            "id": 4122,
+            "text": "SP 270 - Km 34 ao Km 59 - Leste - ViaOeste"
+        },
+        {
+            "id": 4123,
+            "text": "SP 270 - Km 34 ao Km 59 - Oeste - ViaOeste"
+        },
+        {
+            "id": 4124,
+            "text": "SP 270 - Km 60 ao Km 93 - Leste - ViaOeste"
+        },
+        {
+            "id": 4125,
+            "text": "SP 270 - Km 60 ao Km 93 - Oeste - ViaOeste"
+        },
+        {
+            "id": 3378,
+            "text": "SP 270 - Km 92 ao Km 115 - Leste - ViaOeste"
+        },
+        {
+            "id": 4127,
+            "text": "SP 270 - Km 92 ao Km 115 - Oeste - ViaOeste"
+        },
+        {
+            "id": 4128,
+            "text": "SP 280 - Km 13 ao Km 32 - Leste - ViaOeste"
+        },
+        {
+            "id": 3494,
+            "text": "SP 280 - Km 13 ao Km 32 -Oeste - ViaOeste"
+        },
+        {
+            "id": 4131,
+            "text": "SP 280 - Km 33 ao Km 54 - Oeste - ViaOeste"
+        },
+        {
+            "id": 3498,
+            "text": "SP 280 - Km 33 ao Km 54 -Leste - ViaOeste"
+        },
+        {
+            "id": 4132,
+            "text": "SP 280 - Km 55 ao Km 75 - Leste - ViaOeste"
+        },
+        {
+            "id": 4133,
+            "text": "SP 280 - Km 55 ao Km 75 - Oeste - ViaOeste"
+        },
+        {
+            "id": 4134,
+            "text": "SP 280 - Km 76 ao Km 79 - Leste - ViaOeste"
+        },
+        {
+            "id": 4135,
+            "text": "SP 280 - Km 76 ao Km 79 - Oeste - ViaOeste"
+        },
+        {
+            "id": 3347,
+            "text": "SPA - 091/270 - ViaOeste"
+        },
+        {
+            "id": 4106,
+            "text": "SP-215 Leste - Renovias"
+        },
+        {
+            "id": 4107,
+            "text": "SP-215 Oeste - Renovias"
+        },
+        {
+            "id": 3465,
+            "text": "SP-340 Norte - Renovias"
+        },
+        {
+            "id": 3495,
+            "text": "SP-340 Sul - Renovias"
+        },
+        {
+            "id": 3490,
+            "text": "SP-342 Leste - Renovias"
+        },
+        {
+            "id": 3461,
+            "text": "SP-342 Oeste - Renovias"
+        },
+        {
+            "id": 3478,
+            "text": "SP-344 Leste - Renovias"
+        },
+        {
+            "id": 3471,
+            "text": "SP-344 Oeste - Renovias"
+        },
+        {
+            "id": 3483,
+            "text": "SP-350 Norte - Renovias"
+        },
+        {
+            "id": 4108,
+            "text": "SP-350 Sul - Renovias"
+        },
+        {
+            "id": 3918,
+            "text": "Terminal de Cargas - BFH/SBBI"
+        },
+        {
+            "id": 3892,
+            "text": "Terminal de Cargas - Bloco Central"
+        },
+        {
+            "id": 3906,
+            "text": "Terminal de Cargas - CWB/SBCT"
+        },
+        {
+            "id": 3942,
+            "text": "Terminal de Cargas - GYN/SBGO"
+        },
+        {
+            "id": 3932,
+            "text": "Terminal de Cargas - IGU/SBFI"
+        },
+        {
+            "id": 3953,
+            "text": "Terminal de Cargas - IMP/SBIZ"
+        },
+        {
+            "id": 3967,
+            "text": "Terminal de Cargas - JOI/SBJV"
+        },
+        {
+            "id": 3981,
+            "text": "Terminal de Cargas - LDB/SBLO"
+        },
+        {
+            "id": 3995,
+            "text": "Terminal de Cargas - NVT/SBNF"
+        },
+        {
+            "id": 4007,
+            "text": "Terminal de Cargas - PMW/SBPJ"
+        },
+        {
+            "id": 4035,
+            "text": "Terminal de Cargas - PNZ/SBPL"
+        },
+        {
+            "id": 4021,
+            "text": "Terminal de Cargas - SBBH"
+        },
+        {
+            "id": 4049,
+            "text": "Terminal de Cargas - SLZ/SBSL"
+        },
+        {
+            "id": 4061,
+            "text": "Terminal de Cargas - THE/SBTE"
+        },
+        {
+            "id": 4074,
+            "text": "Terminal de Cargas - URG/SBUG"
+        },
+        {
+            "id": 3348,
+            "text": "Terminal de Integração: Acesso Norte - Metro Bahia"
+        },
+        {
+            "id": 3353,
+            "text": "Terminal de Integração: Aeroporto - Metro Bahia"
+        },
+        {
+            "id": 3370,
+            "text": "Terminal de Integração: Mussurunga - Metro Bahia"
+        },
+        {
+            "id": 3383,
+            "text": "Terminal de Integração: Pirajá - Metro Bahia"
+        },
+        {
+            "id": 3440,
+            "text": "Terminal de Integração: Pituaçu - Metro Bahia"
+        },
+        {
+            "id": 3341,
+            "text": "Terminal de Integração: Retiro - Metro Bahia"
+        },
+        {
+            "id": 3919,
+            "text": "Terminal de Passageiros - BFH/SBBI"
+        },
+        {
+            "id": 3893,
+            "text": "Terminal de Passageiros - Bloco Central"
+        },
+        {
+            "id": 3907,
+            "text": "Terminal de Passageiros - CWB/SBCT"
+        },
+        {
+            "id": 3943,
+            "text": "Terminal de Passageiros - GYN/SBGO"
+        },
+        {
+            "id": 3933,
+            "text": "Terminal de Passageiros - IGU/SBFI"
+        },
+        {
+            "id": 3954,
+            "text": "Terminal de Passageiros - IMP/SBIZ"
+        },
+        {
+            "id": 3968,
+            "text": "Terminal de Passageiros - JOI/SBJV"
+        },
+        {
+            "id": 3982,
+            "text": "Terminal de Passageiros - LDB/SBLO"
+        },
+        {
+            "id": 3996,
+            "text": "Terminal de Passageiros - NVT/SBNF"
+        },
+        {
+            "id": 4008,
+            "text": "Terminal de Passageiros - PMW/SBPJ"
+        },
+        {
+            "id": 4036,
+            "text": "Terminal de Passageiros - PNZ/SBPL"
+        },
+        {
+            "id": 4022,
+            "text": "Terminal de Passageiros - SBBH"
+        },
+        {
+            "id": 4050,
+            "text": "Terminal de Passageiros - SLZ/SBSL"
+        },
+        {
+            "id": 4062,
+            "text": "Terminal de Passageiros - THE/SBTE"
+        },
+        {
+            "id": 4075,
+            "text": "Terminal de Passageiros - URG/SBUG"
+        },
+        {
+            "id": 3928,
+            "text": "Torre de Controle - BFH/SBBI"
+        },
+        {
+            "id": 3902,
+            "text": "Torre de Controle - Bloco Central"
+        },
+        {
+            "id": 3914,
+            "text": "Torre de Controle - CWB/SBCT"
+        },
+        {
+            "id": 3950,
+            "text": "Torre de Controle - GYN/SBGO"
+        },
+        {
+            "id": 3940,
+            "text": "Torre de Controle - IGU/SBFI"
+        },
+        {
+            "id": 3963,
+            "text": "Torre de Controle - IMP/SBIZ"
+        },
+        {
+            "id": 3977,
+            "text": "Torre de Controle - JOI/SBJV"
+        },
+        {
+            "id": 3991,
+            "text": "Torre de Controle - LDB/SBLO"
+        },
+        {
+            "id": 4003,
+            "text": "Torre de Controle - NVT/SBNF"
+        },
+        {
+            "id": 4017,
+            "text": "Torre de Controle - PMW/SBPJ"
+        },
+        {
+            "id": 4045,
+            "text": "Torre de Controle - PNZ/SBPL"
+        },
+        {
+            "id": 4031,
+            "text": "Torre de Controle - SBBH"
+        },
+        {
+            "id": 4057,
+            "text": "Torre de Controle - SLZ/SBSL"
+        },
+        {
+            "id": 4070,
+            "text": "Torre de Controle - THE/SBTE"
+        },
+        {
+            "id": 4084,
+            "text": "Torre de Controle - URG/SBUG"
+        },
+        {
+            "id": 4170,
+            "text": "TransOlímpica - Km 01 ao 13 - ViaRio"
+        },
+        {
+            "id": 3399,
+            "text": "Trecho BR 101 Rio de Janeiro - Km 380,800 ao 395,689 - Rio de Janeiro - RioSP"
+        },
+        {
+            "id": 3403,
+            "text": "Trecho BR 101 Rio de Janeiro - Km 395,689 ao 414,358 - Itaguaí - RioSP"
+        },
+        {
+            "id": 3394,
+            "text": "Trecho BR 101 Rio de Janeiro - Km 414,359 ao 455,741 - Mangaratiba - RioSP"
+        },
+        {
+            "id": 4109,
+            "text": "Trecho BR 101 Rio de Janeiro / Km 455,741 ao 533,176 / Angra dos Reis - RioSP"
+        },
+        {
+            "id": 4110,
+            "text": "Trecho BR 101 Rio de Janeiro / Km 533,176 ao 598,606 / Paraty - RioSP"
+        },
+        {
+            "id": 3392,
+            "text": "Trecho BR 101 São Paulo - Km 0 ao 52,594 - Ubatuba - RioSP"
+        },
+        {
+            "id": 3475,
+            "text": "Trecho BR 116 Rio de Janeiro - Km 282,300 ao 214 - RJ2- RioSP"
+        },
+        {
+            "id": 3468,
+            "text": "Trecho BR 116 Rio de Janeiro - Km 339 ao 282,300 - RJ1- RioSP"
+        },
+        {
+            "id": 3474,
+            "text": "Trecho BR 116 São Paulo - Km 128 ao 0 - SP2- RioSP"
+        },
+        {
+            "id": 4115,
+            "text": "Trecho BR 116 São Paulo - Km 231 ao 128 - SP1 - RioSP"
+        },
+        {
+            "id": 4116,
+            "text": "Trecho Externo Km 0 ao Km 15 - Sul - RodoAnel"
+        },
+        {
+            "id": 4117,
+            "text": "Trecho Externo Km 16 ao Km 29 - Sul - RodoAnel"
+        },
+        {
+            "id": 4118,
+            "text": "Trecho Interno Km 0 ao Km 15 - Norte - RodoAnel"
+        },
+        {
+            "id": 3273,
+            "text": "Trecho Interno Km 16 ao Km 29 - Norte - RodoAnel"
+        },
+        {
+            "id": 3292,
+            "text": "Trecho Interno Km 16 ao Km 29 - Sul - RodoAnel"
+        },
+        {
+            "id": 4104,
+            "text": "Trecho Rio de Janeiro - Km 226 ao 163 - CCO 4 - NovaDutra"
+        },
+        {
+            "id": 3276,
+            "text": "Trecho Rio de Janeiro - Km 333 ao 227 - CCO 3 - NovaDutra"
+        },
+        {
+            "id": 3275,
+            "text": "Trecho São Paulo - Km 129 ao Km 0 - CCO 2 - NovaDutra"
+        },
+        {
+            "id": 3266,
+            "text": "Trecho São Paulo - Km 231 ao Km 128 - CCO 1 - NovaDutra"
+        },
+        {
+            "id": 4119,
+            "text": "Trecho SP 127 - Norte/Sul - SPVias"
+        },
+        {
+            "id": 4120,
+            "text": "Trecho SP 255 - Norte/Sul - SPVias"
+        },
+        {
+            "id": 3327,
+            "text": "Trecho SP 258 - Leste/Oeste - SPVias"
+        },
+        {
+            "id": 3265,
+            "text": "Trecho SP 270 - Leste/Oeste - SPVias"
+        },
+        {
+            "id": 3284,
+            "text": "Trecho SP 280 - Leste/Oeste - SPVias"
+        },
+        {
+            "id": 3300,
+            "text": "T01 - Km 0 ao Km 52,8 - MSVia"
+        },
+        {
+            "id": 3299,
+            "text": "T02 - Km 52,8 ao Km 103,8 - MSVia"
+        },
+        {
+            "id": 4099,
+            "text": "T03 - Km 103,8 ao Km 158,4 - MSVia"
+        },
+        {
+            "id": 3402,
+            "text": "T04 - Km 158,4 ao Km 211,2 - MSVia"
+        },
+        {
+            "id": 3272,
+            "text": "T05 - Km 211,2 ao Km 264 - MSVia"
+        },
+        {
+            "id": 3285,
+            "text": "T06 - Km 264 ao Km 316,8 - MSVia"
+        },
+        {
+            "id": 4100,
+            "text": "T07 - Km 316,8 ao Km 369,6 - MSVia"
+        },
+        {
+            "id": 4101,
+            "text": "T08 - Km 369,6 ao Km 422,4 - MSVia"
+        },
+        {
+            "id": 4102,
+            "text": "T09 - Km 422,4 ao Km 475,2 - MSVia"
+        },
+        {
+            "id": 3281,
+            "text": "T10 - Km 475,2 ao Km 528 - MSVia"
+        },
+        {
+            "id": 3302,
+            "text": "T11 - Km 528 ao Km 575 - MSVia"
+        },
+        {
+            "id": 3271,
+            "text": "T12 - Km 575 ao Km 633,6 - MSVia"
+        },
+        {
+            "id": 3325,
+            "text": "T13 - Km 633,6 ao Km 686,4 - MSVia"
+        },
+        {
+            "id": 3329,
+            "text": "T14 - Km 686,4 ao Km 739,2 - MSVia"
+        },
+        {
+            "id": 3350,
+            "text": "T15 - Km 739,2 ao Km 792 - MSVia"
+        },
+        {
+            "id": 3351,
+            "text": "T16 - Km 792 ao Km 845,4 - MSVia"
+        }
+    ],
+    "Trabalhista": [
+        {
+            "id": 3361,
+            "text": "Administração - Holding"
+        },
+        {
+            "id": 3283,
+            "text": "Apoio Administrativo - Cco"
+        },
+        {
+            "id": 3298,
+            "text": "Apoio Administrativo - Sede"
+        },
+        {
+            "id": 3477,
+            "text": "Área não operacional - Pátio e Pista"
+        },
+        {
+            "id": 3277,
+            "text": "Arrecadação"
+        },
+        {
+            "id": 3854,
+            "text": "Atendimento - Bilheteria"
+        },
+        {
+            "id": 3385,
+            "text": "Atendimento - Gestão dos Terminais de Onibus"
+        },
+        {
+            "id": 4183,
+            "text": "BR 386 - km 178,50 ao Km 444,30 - Norte - ViaSul"
+        },
+        {
+            "id": 3376,
+            "text": "BR 448 - Km 0,45 ao Km 22,07 - Sul - ViaSul"
+        },
+        {
+            "id": 3345,
+            "text": "Conservação"
+        },
+        {
+            "id": 3438,
+            "text": "Contabilidade"
+        },
+        {
+            "id": 4241,
+            "text": "Coordenação"
+        },
+        {
+            "id": 3858,
+            "text": "Diretoria"
+        },
+        {
+            "id": 3288,
+            "text": "Embarcações"
+        },
+        {
+            "id": 3356,
+            "text": "Engelog/Engelogtec"
+        },
+        {
+            "id": 3427,
+            "text": "Estação - Brooklin - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3433,
+            "text": "Estação - Eucaliptos - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3441,
+            "text": "Estação - Largo Treze - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3423,
+            "text": "Estação - Santa Cruz - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3365,
+            "text": "Estação Cocotá - Barcas"
+        },
+        {
+            "id": 3432,
+            "text": "Estação Engenheiro Cardoso - Linhas 8 e 9"
+        },
+        {
+            "id": 3444,
+            "text": "Estação Itapevi"
+        },
+        {
+            "id": 3502,
+            "text": "Estação Mendes - Vila Natal - Linhas 8 e 9"
+        },
+        {
+            "id": 4222,
+            "text": "Estação Paulista"
+        },
+        {
+            "id": 4221,
+            "text": "Estação Pinheiros - ViaQuatro"
+        },
+        {
+            "id": 3415,
+            "text": "Estacionamento - IGU/SBFI"
+        },
+        {
+            "id": 3315,
+            "text": "Estações - Atend/Manutenção"
+        },
+        {
+            "id": 3320,
+            "text": "Estações - Higiene"
+        },
+        {
+            "id": 3381,
+            "text": "Estações - Manutenção Elétrica"
+        },
+        {
+            "id": 3312,
+            "text": "Estações - Segurança"
+        },
+        {
+            "id": 3321,
+            "text": "Estaleiro"
+        },
+        {
+            "id": 3430,
+            "text": "Fiscal de Pátio"
+        },
+        {
+            "id": 3380,
+            "text": "Fiscalização"
+        },
+        {
+            "id": 3311,
+            "text": "Fora da Área de Concessão"
+        },
+        {
+            "id": 3852,
+            "text": "Gerência"
+        },
+        {
+            "id": 3346,
+            "text": "Gestão de Pessoas"
+        },
+        {
+            "id": 3286,
+            "text": "Interação com o Cliente - Aph"
+        },
+        {
+            "id": 3363,
+            "text": "Interação com o Cliente - Guincho"
+        },
+        {
+            "id": 3414,
+            "text": "Interação com o Cliente - Manutenção"
+        },
+        {
+            "id": 3417,
+            "text": "Interação com o Cliente - Médico Plantonista"
+        },
+        {
+            "id": 3334,
+            "text": "Interação com o Cliente - Monitoramento"
+        },
+        {
+            "id": 3369,
+            "text": "Interação com o Cliente - Pesagem"
+        },
+        {
+            "id": 3322,
+            "text": "Interação com o Cliente - S.A.U"
+        },
+        {
+            "id": 3310,
+            "text": "Interação com o Cliente - Tráfego"
+        },
+        {
+            "id": 3263,
+            "text": "Não se Aplica"
+        },
+        {
+            "id": 3362,
+            "text": "Operação"
+        },
+        {
+            "id": 3856,
+            "text": "Operador de Ponte"
+        },
+        {
+            "id": 3849,
+            "text": "Operador de Trem"
+        },
+        {
+            "id": 3853,
+            "text": "Operadora de Caixa"
+        },
+        {
+            "id": 3857,
+            "text": "Orçamentista"
+        },
+        {
+            "id": 3264,
+            "text": "Pátio - Manutenção - Eletrônica"
+        },
+        {
+            "id": 3422,
+            "text": "Pátio - Manutenção - Serviço De Urgência De Atendimento (Suat)"
+        },
+        {
+            "id": 3384,
+            "text": "Pátio - Manutenção - Sistemas Elétricos, Rede Aérea"
+        },
+        {
+            "id": 3389,
+            "text": "Pátio - Manutenção - Via Permanente"
+        },
+        {
+            "id": 3412,
+            "text": "Pátio - Manutenção De Material Rodante"
+        },
+        {
+            "id": 3366,
+            "text": "Píer Angra dos Reis - Barcas"
+        },
+        {
+            "id": 3377,
+            "text": "Sede - Infraestrutura"
+        },
+        {
+            "id": 3860,
+            "text": "Sede - Planejamento e Controle"
+        },
+        {
+            "id": 3360,
+            "text": "Sede - Sistemas Especialistas"
+        },
+        {
+            "id": 3358,
+            "text": "Serviços Gerais"
+        },
+        {
+            "id": 3336,
+            "text": "SP - 215 Leste - Renovias"
+        },
+        {
+            "id": 3413,
+            "text": "SP - 215 Oeste - Renovias"
+        },
+        {
+            "id": 3305,
+            "text": "SP - 340 Norte - Renovias"
+        },
+        {
+            "id": 3293,
+            "text": "SP - 340 Sul - Renovias"
+        },
+        {
+            "id": 3333,
+            "text": "SP - 342 Leste - Renovias"
+        },
+        {
+            "id": 3367,
+            "text": "SP - 342 Oeste - Renovias"
+        },
+        {
+            "id": 3294,
+            "text": "SP - 344 Leste - Renovias"
+        },
+        {
+            "id": 3279,
+            "text": "SP - 344 Oeste - Renovias"
+        },
+        {
+            "id": 3368,
+            "text": "SP - 350 Norte - Renovias"
+        },
+        {
+            "id": 3338,
+            "text": "SP - 350 Sul - Renovias"
+        },
+        {
+            "id": 3434,
+            "text": "Técnico de Segurança do Trabalho"
+        },
+        {
+            "id": 3855,
+            "text": "Telecomunicações"
+        },
+        {
+            "id": 3851,
+            "text": "Tesouraria"
+        },
+        {
+            "id": 3402,
+            "text": "T04 - Km 158,4 ao Km 211,2 - MSVia"
+        },
+        {
+            "id": 3850,
+            "text": "Vigilante"
+        },
+        {
+            "id": 3379,
+            "text": "Vlt - Condutor"
+        }
+    ],
+    "Tributário": [
+        {
+            "id": 3477,
+            "text": "Área não operacional - Pátio e Pista"
+        },
+        {
+            "id": 4183,
+            "text": "BR 386 - km 178,50 ao Km 444,30 - Norte - ViaSul"
+        },
+        {
+            "id": 3438,
+            "text": "Contabilidade"
+        },
+        {
+            "id": 3427,
+            "text": "Estação - Brooklin - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3433,
+            "text": "Estação - Eucaliptos - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3441,
+            "text": "Estação - Largo Treze - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3423,
+            "text": "Estação - Santa Cruz - Via Mobilidade L5 e L17"
+        },
+        {
+            "id": 3365,
+            "text": "Estação Cocotá - Barcas"
+        },
+        {
+            "id": 3432,
+            "text": "Estação Engenheiro Cardoso - Linhas 8 e 9"
+        },
+        {
+            "id": 3444,
+            "text": "Estação Itapevi"
+        },
+        {
+            "id": 3502,
+            "text": "Estação Mendes - Vila Natal - Linhas 8 e 9"
+        },
+        {
+            "id": 4222,
+            "text": "Estação Paulista"
+        },
+        {
+            "id": 4221,
+            "text": "Estação Pinheiros - ViaQuatro"
+        },
+        {
+            "id": 3415,
+            "text": "Estacionamento - IGU/SBFI"
+        },
+        {
+            "id": 3263,
+            "text": "Não se Aplica"
+        },
+        {
+            "id": 3362,
+            "text": "Operação"
+        },
+        {
+            "id": 3366,
+            "text": "Píer Angra dos Reis - Barcas"
+        },
+        {
+            "id": 3336,
+            "text": "SP - 215 Leste - Renovias"
+        },
+        {
+            "id": 3413,
+            "text": "SP - 215 Oeste - Renovias"
+        },
+        {
+            "id": 3305,
+            "text": "SP - 340 Norte - Renovias"
+        },
+        {
+            "id": 3293,
+            "text": "SP - 340 Sul - Renovias"
+        },
+        {
+            "id": 3333,
+            "text": "SP - 342 Leste - Renovias"
+        },
+        {
+            "id": 3367,
+            "text": "SP - 342 Oeste - Renovias"
+        },
+        {
+            "id": 3294,
+            "text": "SP - 344 Leste - Renovias"
+        },
+        {
+            "id": 3279,
+            "text": "SP - 344 Oeste - Renovias"
+        },
+        {
+            "id": 3368,
+            "text": "SP - 350 Norte - Renovias"
+        },
+        {
+            "id": 3338,
+            "text": "SP - 350 Sul - Renovias"
+        }
+    ]
+}

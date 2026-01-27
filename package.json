@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development node index.js",
+    "prod": "cross-env NODE_ENV=production node index.js",
+    "start": "node index.js",
+    "update-ccr-fields-prod": "clear && cross-env NODE_ENV=production node index.js operation=updateCCRfields",
+    "update-ccr-fields-dev": "clear && cross-env NODE_ENV=development node index.js operation=updateCCRfields",
+    "subsidies-rpa-search-dev": "clear && cross-env NODE_ENV=development node index.js operation=subsidiesRpaSearch",
+    "subsidies-rpa-search-prod": "clear && cross-env NODE_ENV=production node index.js operation=subsidiesRpaSearch",
+    "update-rpa-logs-dev": "clear && cross-env NODE_ENV=development node index.js operation=updateRpaLogs",
+    "update-rpa-logs-prod": "clear && cross-env NODE_ENV=production node index.js operation=updateRpaLogs",
+    "update-terms-dev": "clear && cross-env NODE_ENV=development node index.js operation=updateTerms",
+    "update-terms-prod": "clear && cross-env NODE_ENV=production node index.js operation=updateTerms"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "mongodb": "^7.0.0",
+    "mongoose": "^8.19.3",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

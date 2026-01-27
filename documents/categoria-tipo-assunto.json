@@ -1,0 +1,4945 @@
+{
+    "Cível": {
+        "Ação Anulatória": [
+            {
+                "id": 7676,
+                "text": "Abstenção Uso de Nome Comercial / Marcas e Patentes / INPI"
+            },
+            {
+                "id": 7818,
+                "text": "Acesso"
+            },
+            {
+                "id": 8419,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6460,
+                "text": "Cobrança"
+            },
+            {
+                "id": 7191,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7896,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7551,
+                "text": "Danos Decorrentes de Desapropriação"
+            },
+            {
+                "id": 7376,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 6462,
+                "text": "Duplicidade de Pagamento"
+            },
+            {
+                "id": 7298,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 8120,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7960,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 6463,
+                "text": "Free Flow"
+            },
+            {
+                "id": 8390,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 6464,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6465,
+                "text": "Inconstitucionalidade de Lei"
+            },
+            {
+                "id": 8369,
+                "text": "Informações"
+            },
+            {
+                "id": 8234,
+                "text": "Infração ao Contrato de Concessão"
+            },
+            {
+                "id": 8416,
+                "text": "Infração de Trânsito"
+            },
+            {
+                "id": 7187,
+                "text": "Interpretação e Aplicação de Leis / Resoluções / Normas / Portarias"
+            },
+            {
+                "id": 6466,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 8128,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 7924,
+                "text": "Licitação"
+            },
+            {
+                "id": 6505,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 7491,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 8132,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7950,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 8001,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 6461,
+                "text": "Protesto Indevido"
+            },
+            {
+                "id": 6506,
+                "text": "Queda / Escorregão / Tombo"
+            },
+            {
+                "id": 6507,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 8317,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 6509,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 6510,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6511,
+                "text": "Riocard / Passe Livre / Bilhete Único"
+            },
+            {
+                "id": 8045,
+                "text": "Rompimento Ilicito de Contrato"
+            },
+            {
+                "id": 6512,
+                "text": "Segurança Pública"
+            },
+            {
+                "id": 6513,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7293,
+                "text": "Serviços de Manutenção da Rodovia"
+            },
+            {
+                "id": 8100,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação Cautelar": [
+            {
+                "id": 7628,
+                "text": "Acesso"
+            },
+            {
+                "id": 7394,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6468,
+                "text": "Acidente de Trânsito"
+            },
+            {
+                "id": 7400,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 8003,
+                "text": "Acidente Gávea I"
+            },
+            {
+                "id": 7790,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7448,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 7782,
+                "text": "Atropelamento"
+            },
+            {
+                "id": 8404,
+                "text": "Balança (Pesagem)"
+            },
+            {
+                "id": 8223,
+                "text": "Barcas"
+            },
+            {
+                "id": 7248,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7370,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 8330,
+                "text": "Construções Lindeiras / Aprovação de Projeto"
+            },
+            {
+                "id": 7295,
+                "text": "Corte de Árvore / Licença"
+            },
+            {
+                "id": 7493,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 7913,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 7804,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7770,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 6477,
+                "text": "Duplicidade de Pagamento"
+            },
+            {
+                "id": 7784,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 8205,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7472,
+                "text": "Falha - Atrasos / Filas / Cancelamento de Viagem"
+            },
+            {
+                "id": 8184,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 7861,
+                "text": "Falsidade Ideológica"
+            },
+            {
+                "id": 7977,
+                "text": "Fibra Óptica"
+            },
+            {
+                "id": 6469,
+                "text": "Fumaça / Queimada / Incêndio"
+            },
+            {
+                "id": 7840,
+                "text": "Furto"
+            },
+            {
+                "id": 7163,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 7309,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 8381,
+                "text": "Informações"
+            },
+            {
+                "id": 7384,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 7785,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 8235,
+                "text": "Licitação"
+            },
+            {
+                "id": 6471,
+                "text": "Meio Ambiente"
+            },
+            {
+                "id": 8073,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 6472,
+                "text": "Obras"
+            },
+            {
+                "id": 7712,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7639,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7387,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 7352,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 7851,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7362,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6476,
+                "text": "Protesto Indevido"
+            },
+            {
+                "id": 8061,
+                "text": "Queda / Escorregão / Tombo"
+            },
+            {
+                "id": 7302,
+                "text": "Realização de Obras"
+            },
+            {
+                "id": 8147,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 7353,
+                "text": "Remuneração pelo uso da faixa de domínio"
+            },
+            {
+                "id": 6467,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 7668,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 8304,
+                "text": "Segurança Pública"
+            },
+            {
+                "id": 7754,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 8047,
+                "text": "Sinalização"
+            },
+            {
+                "id": 6470,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 8064,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 7955,
+                "text": "Travessia de Cabos"
+            }
+        ],
+        "Ação Civil Pública": [
+            {
+                "id": 7772,
+                "text": "Abstenção Uso de Nome Comercial / Marcas e Patentes / INPI"
+            },
+            {
+                "id": 6478,
+                "text": "Acesso"
+            },
+            {
+                "id": 7172,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 7969,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 6479,
+                "text": "Ambiente - Enchente / Inundação / Alagamento"
+            },
+            {
+                "id": 7242,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7525,
+                "text": "Animal na Pista - Silvestre"
+            },
+            {
+                "id": 8175,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 6481,
+                "text": "Barcas"
+            },
+            {
+                "id": 7385,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6482,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 6483,
+                "text": "Deficiente/Acessibilidade"
+            },
+            {
+                "id": 7494,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 6484,
+                "text": "Enchente / Inundação / Alagamento"
+            },
+            {
+                "id": 7375,
+                "text": "Estacionamento"
+            },
+            {
+                "id": 7976,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 7167,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7152,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 6515,
+                "text": "Gratuidade/Cortesia de Bilhetes"
+            },
+            {
+                "id": 6516,
+                "text": "Incidente 03/04/2013 - Barcas"
+            },
+            {
+                "id": 7320,
+                "text": "Indenização por Danos Morais"
+            },
+            {
+                "id": 7369,
+                "text": "Infração ao Contrato de Concessão"
+            },
+            {
+                "id": 6518,
+                "text": "Licitação"
+            },
+            {
+                "id": 6519,
+                "text": "Meio Ambiente"
+            },
+            {
+                "id": 6521,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 6522,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7372,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 6523,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 8341,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 6524,
+                "text": "Passarela"
+            },
+            {
+                "id": 7450,
+                "text": "Pedágio/Tarifa/Isenção"
+            },
+            {
+                "id": 6527,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6528,
+                "text": "Reajuste Anual das Tarifas de Pedágio"
+            },
+            {
+                "id": 8038,
+                "text": "Reajuste de Tarifa Barcas"
+            },
+            {
+                "id": 7359,
+                "text": "Realização de Obras"
+            },
+            {
+                "id": 8093,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 6529,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 6530,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6531,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 6532,
+                "text": "Sinalização"
+            },
+            {
+                "id": 7136,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 8284,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            },
+            {
+                "id": 7725,
+                "text": "Uso indevido do nome / Marca / Imagem das empresas do Grupo CCR"
+            }
+        ],
+        "Ação Coletiva": [
+            {
+                "id": 7767,
+                "text": "Barcas"
+            },
+            {
+                "id": 8266,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8269,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação Cominatória": [
+            {
+                "id": 7716,
+                "text": "Acesso"
+            },
+            {
+                "id": 7319,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6534,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7661,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 6535,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7966,
+                "text": "Falha na Prestação de Serviços / Atendimento"
+            },
+            {
+                "id": 6536,
+                "text": "Free Flow"
+            },
+            {
+                "id": 7731,
+                "text": "Imóvel"
+            },
+            {
+                "id": 8332,
+                "text": "Invasão"
+            },
+            {
+                "id": 7921,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 8076,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 8182,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7902,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 6537,
+                "text": "Remuneração pelo uso da faixa de domínio"
+            },
+            {
+                "id": 8199,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação de Cobrança": [
+            {
+                "id": 8148,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 7928,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7711,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 6538,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6539,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7867,
+                "text": "Cobrança de Pedágio"
+            },
+            {
+                "id": 6540,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 6541,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 6542,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8179,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 6543,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 6544,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7423,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 6546,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 7633,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 7679,
+                "text": "Locação"
+            },
+            {
+                "id": 7327,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 7751,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 6548,
+                "text": "Obras"
+            },
+            {
+                "id": 6549,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7697,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 8055,
+                "text": "Óleo na Pista / Pista Escorregadia"
+            },
+            {
+                "id": 6550,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 8241,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 6553,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 6554,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 8072,
+                "text": "Seguro"
+            },
+            {
+                "id": 7879,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7612,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 6555,
+                "text": "Taxas"
+            },
+            {
+                "id": 8322,
+                "text": "Transferência de Bens ao Patrimônio da União"
+            },
+            {
+                "id": 8220,
+                "text": "Veículo da Concessão"
+            }
+        ],
+        "Ação de Consignação em Pagamento": [
+            {
+                "id": 8232,
+                "text": "Acesso"
+            },
+            {
+                "id": 6556,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7626,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7703,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8424,
+                "text": "Free Flow"
+            },
+            {
+                "id": 7504,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 7669,
+                "text": "Locação"
+            },
+            {
+                "id": 7611,
+                "text": "Pedágio"
+            },
+            {
+                "id": 8388,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6557,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 8059,
+                "text": "Seguro"
+            },
+            {
+                "id": 7967,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação de Cumprimento": [
+            {
+                "id": 7429,
+                "text": "Rescisão Contratual"
+            }
+        ],
+        "Ação de Desapropriação": [
+            {
+                "id": 8005,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7473,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 7502,
+                "text": "Desapropriação Indireta"
+            },
+            {
+                "id": 7863,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 8139,
+                "text": "Remoção / Comércio Ilegal"
+            }
+        ],
+        "Ação de Despejo com Cobrança": [
+            {
+                "id": 8228,
+                "text": "Barcas"
+            },
+            {
+                "id": 6558,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7176,
+                "text": "Contrato de Locação"
+            },
+            {
+                "id": 7185,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6559,
+                "text": "Locação"
+            }
+        ],
+        "Ação de Execução de Título Extrajudicial": [
+            {
+                "id": 8253,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 7214,
+                "text": "Barcas"
+            },
+            {
+                "id": 6560,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7779,
+                "text": "Cobrança"
+            },
+            {
+                "id": 7194,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7195,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 6561,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7631,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 6568,
+                "text": "Duplicidade de Pagamento"
+            },
+            {
+                "id": 8091,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 6562,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 8323,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 6563,
+                "text": "Locação"
+            },
+            {
+                "id": 7886,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 8260,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 6564,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6567,
+                "text": "Protesto Indevido"
+            },
+            {
+                "id": 8066,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 7365,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 6566,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 7932,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7756,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação De Impugnação ao Mandato Eletivo": [
+            {
+                "id": 7526,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 6486,
+                "text": "Gratuidade/Cortesia de Bilhetes"
+            },
+            {
+                "id": 6487,
+                "text": "Incidente 03/04/2013 - Barcas"
+            },
+            {
+                "id": 6489,
+                "text": "Meio Ambiente"
+            },
+            {
+                "id": 6491,
+                "text": "Obras/Ampliações"
+            }
+        ],
+        "Ação de Obrigação de Fazer": [
+            {
+                "id": 8169,
+                "text": "Abstenção Uso de Nome Comercial / Marcas e Patentes / INPI"
+            },
+            {
+                "id": 6569,
+                "text": "Acesso"
+            },
+            {
+                "id": 6570,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 7762,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 8164,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7750,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7844,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 7637,
+                "text": "Barracas na Faixa de Domínio"
+            },
+            {
+                "id": 6571,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6572,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 8407,
+                "text": "Cobrança de Pedágio"
+            },
+            {
+                "id": 6573,
+                "text": "Construções Lindeiras / Aprovação de Projeto"
+            },
+            {
+                "id": 7485,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7188,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 6574,
+                "text": "Defeito / Desnível / Buraco na Pista"
+            },
+            {
+                "id": 6575,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7920,
+                "text": "Desmoronamento"
+            },
+            {
+                "id": 7846,
+                "text": "Eixos Suspensos"
+            },
+            {
+                "id": 6576,
+                "text": "Enchente / Inundação / Alagamento"
+            },
+            {
+                "id": 6577,
+                "text": "Estacionamento"
+            },
+            {
+                "id": 7665,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 6578,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7267,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 6580,
+                "text": "Free Flow"
+            },
+            {
+                "id": 6581,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 7218,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6582,
+                "text": "Informações"
+            },
+            {
+                "id": 8285,
+                "text": "Interpretação e Aplicação de Leis / Resoluções / Normas / Portarias"
+            },
+            {
+                "id": 8101,
+                "text": "Leilão"
+            },
+            {
+                "id": 7852,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 6584,
+                "text": "Lixo / Entulho na Faixa de Domínio"
+            },
+            {
+                "id": 8315,
+                "text": "Locação"
+            },
+            {
+                "id": 6585,
+                "text": "Meio Ambiente"
+            },
+            {
+                "id": 6586,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 6589,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 6590,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7363,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 7748,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 7701,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7220,
+                "text": "Pedágio - Irregularidades na Cobrança"
+            },
+            {
+                "id": 6591,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7940,
+                "text": "Queda / Escorregão / Tombo"
+            },
+            {
+                "id": 6592,
+                "text": "Reajuste Anual das Tarifas de Pedágio"
+            },
+            {
+                "id": 6594,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 6595,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 6597,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 8415,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6598,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 8280,
+                "text": "Servicos de Manutenção da Rodovia"
+            },
+            {
+                "id": 7826,
+                "text": "Sinalização"
+            },
+            {
+                "id": 7271,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7173,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 7702,
+                "text": "Travessia de Cabos"
+            },
+            {
+                "id": 7498,
+                "text": "Uso indevido do nome / Marca / Imagem das empresas do Grupo CCR"
+            }
+        ],
+        "Ação de Obrigação de Não Fazer": [
+            {
+                "id": 6600,
+                "text": "Acesso"
+            },
+            {
+                "id": 6601,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 7252,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6602,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 7677,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7268,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8229,
+                "text": "Inconstitucionalidade de Lei"
+            },
+            {
+                "id": 8281,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 8263,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7217,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 8306,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 7301,
+                "text": "Pedágio/Tarifa/Isenção"
+            },
+            {
+                "id": 8213,
+                "text": "Riocard / Passe Livre / Bilhete Único"
+            }
+        ],
+        "Ação de Oposição": [
+            {
+                "id": 7500,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 8037,
+                "text": "Usucapião"
+            }
+        ],
+        "Ação de Reintegração de Posse": [
+            {
+                "id": 6605,
+                "text": "Acesso"
+            },
+            {
+                "id": 6606,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6607,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7899,
+                "text": "Construções Lindeiras / Aprovação de Projeto"
+            },
+            {
+                "id": 7758,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 6608,
+                "text": "Estacionamento"
+            },
+            {
+                "id": 6609,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 8014,
+                "text": "Falha na Prestação de Serviços / Atendimento"
+            },
+            {
+                "id": 7900,
+                "text": "Imóvel"
+            },
+            {
+                "id": 6610,
+                "text": "Invasão"
+            },
+            {
+                "id": 7744,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 7635,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 6613,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 6614,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 6615,
+                "text": "Remoção / Comércio Ilegal"
+            },
+            {
+                "id": 8238,
+                "text": "Roubo"
+            }
+        ],
+        "Ação de Reintegração de Posse Cumulada com Cobrança": [
+            {
+                "id": 7239,
+                "text": "Reintegração de Posse"
+            }
+        ],
+        "Ação de Reintegração de Posse Cumulada com Demolitória": [
+            {
+                "id": 7129,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 7150,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 7161,
+                "text": "Remoção / Comércio Ilegal"
+            }
+        ],
+        "Ação de Repetição de Indébito": [
+            {
+                "id": 8288,
+                "text": "Apropriação Indébita"
+            },
+            {
+                "id": 7986,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7636,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 6616,
+                "text": "Free Flow"
+            },
+            {
+                "id": 8246,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 6617,
+                "text": "Pedágio"
+            },
+            {
+                "id": 8174,
+                "text": "Repetição de Indébito"
+            },
+            {
+                "id": 7952,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 8163,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 6619,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            }
+        ],
+        "Ação de Ressarcimento": [
+            {
+                "id": 6620,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 7787,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7970,
+                "text": "Atropelamento"
+            },
+            {
+                "id": 6621,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7183,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 8140,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8222,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7922,
+                "text": "Lançamento de Objeto / Vandalismo"
+            },
+            {
+                "id": 7496,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 7874,
+                "text": "Pedágio"
+            },
+            {
+                "id": 8031,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7209,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 7941,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            }
+        ],
+        "Ação de Usucapião": [
+            {
+                "id": 8382,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 8176,
+                "text": "Imóvel"
+            },
+            {
+                "id": 7283,
+                "text": "Retificação de Área"
+            },
+            {
+                "id": 6622,
+                "text": "Usucapião"
+            }
+        ],
+        "Ação Declaratória": [
+            {
+                "id": 7312,
+                "text": "Abstenção Uso de Nome Comercial / Marcas e Patentes / INPI"
+            },
+            {
+                "id": 7906,
+                "text": "Acesso"
+            },
+            {
+                "id": 6623,
+                "text": "Acesso Cobrança"
+            },
+            {
+                "id": 6624,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6625,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 7824,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 6626,
+                "text": "Atraso da Embarcação"
+            },
+            {
+                "id": 8123,
+                "text": "Balança (Pesagem)"
+            },
+            {
+                "id": 7717,
+                "text": "Barcas"
+            },
+            {
+                "id": 6627,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6628,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7718,
+                "text": "Cobrança de Pedágio"
+            },
+            {
+                "id": 6629,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7165,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 8485,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 8445,
+                "text": "Desapropriação Indireta"
+            },
+            {
+                "id": 6630,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 6631,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 8203,
+                "text": "Eixos Suspensos"
+            },
+            {
+                "id": 7654,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 8215,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 6646,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 8428,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8068,
+                "text": "Fibra Óptica"
+            },
+            {
+                "id": 6632,
+                "text": "Free Flow"
+            },
+            {
+                "id": 6633,
+                "text": "Imóvel"
+            },
+            {
+                "id": 6634,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 7553,
+                "text": "Irregularidades na Cobrança"
+            },
+            {
+                "id": 7768,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 8157,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 6635,
+                "text": "Meio Ambiente"
+            },
+            {
+                "id": 6636,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 8227,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7186,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7351,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 8082,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 8006,
+                "text": "Óleo na Pista / Pista Escorregadia"
+            },
+            {
+                "id": 7153,
+                "text": "Operação da Rodovia"
+            },
+            {
+                "id": 6637,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7287,
+                "text": "Pedágio - Irregularidades na Cobrança"
+            },
+            {
+                "id": 7501,
+                "text": "Pedágio/Tarifa/Isenção"
+            },
+            {
+                "id": 7904,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7988,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 6638,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 6640,
+                "text": "Repetição de Indébito"
+            },
+            {
+                "id": 6641,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 8413,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6642,
+                "text": "Riocard / Passe Livre / Bilhete Único"
+            },
+            {
+                "id": 6643,
+                "text": "Rompimento Ilicito de Contrato"
+            },
+            {
+                "id": 8318,
+                "text": "Seguro"
+            },
+            {
+                "id": 7619,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7979,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 8142,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            },
+            {
+                "id": 6644,
+                "text": "Taxas"
+            },
+            {
+                "id": 6645,
+                "text": "Transferência de Bens ao Patrimônio da União"
+            },
+            {
+                "id": 6647,
+                "text": "Travessia de Cabos"
+            },
+            {
+                "id": 7552,
+                "text": "Uso de Nome Comercial / Marcas e Patentes / INPI"
+            }
+        ],
+        "Ação Declaratória de Constitucionalidade": [
+            {
+                "id": 6492,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 6493,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 6494,
+                "text": "Passarela"
+            },
+            {
+                "id": 6495,
+                "text": "Pedágio"
+            },
+            {
+                "id": 6497,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6498,
+                "text": "Reajuste Anual das Tarifas de Pedágio"
+            }
+        ],
+        "Ação Direta de Inconstitucionalidade": [
+            {
+                "id": 7141,
+                "text": "Interpretação e Aplicação de Leis / Resoluções / Normas / Portarias"
+            },
+            {
+                "id": 8310,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7647,
+                "text": "Pedágio"
+            },
+            {
+                "id": 6499,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 6500,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6501,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 6502,
+                "text": "Sinalização"
+            },
+            {
+                "id": 7529,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação Indenizatória": [
+            {
+                "id": 6648,
+                "text": "Abstenção Uso de Nome Comercial / Marcas e Patentes / INPI"
+            },
+            {
+                "id": 7178,
+                "text": "Acesso"
+            },
+            {
+                "id": 6649,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 8008,
+                "text": "Acidente"
+            },
+            {
+                "id": 7982,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 6650,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 6651,
+                "text": "Acidente Gávea I"
+            },
+            {
+                "id": 6652,
+                "text": "Agressão"
+            },
+            {
+                "id": 6653,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7453,
+                "text": "Ambiente - Enchente / Inundação / Alagamento"
+            },
+            {
+                "id": 6654,
+                "text": "Animal em áreas não operacionais"
+            },
+            {
+                "id": 7133,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7130,
+                "text": "Animal na Pista - Silvestre"
+            },
+            {
+                "id": 7798,
+                "text": "Apropriação Indébita"
+            },
+            {
+                "id": 6656,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 6657,
+                "text": "Assédio Sexual"
+            },
+            {
+                "id": 6658,
+                "text": "Atraso da Embarcação"
+            },
+            {
+                "id": 6659,
+                "text": "Atropelamento"
+            },
+            {
+                "id": 6660,
+                "text": "Bala Perdida"
+            },
+            {
+                "id": 7318,
+                "text": "Balança - Pesagem"
+            },
+            {
+                "id": 6661,
+                "text": "Barcas"
+            },
+            {
+                "id": 6662,
+                "text": "Bloqueio na Pista"
+            },
+            {
+                "id": 7148,
+                "text": "Cabine de Bloqueio"
+            },
+            {
+                "id": 6663,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6664,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 6665,
+                "text": "Cobrança de Pedágio"
+            },
+            {
+                "id": 7128,
+                "text": "Colisão entre veículos"
+            },
+            {
+                "id": 7693,
+                "text": "Conservação"
+            },
+            {
+                "id": 6666,
+                "text": "Constrangimento Ilegal"
+            },
+            {
+                "id": 8187,
+                "text": "Construções Lindeiras / Aprovação de Projeto"
+            },
+            {
+                "id": 6667,
+                "text": "Danos à Veículos"
+            },
+            {
+                "id": 6668,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 6669,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 6670,
+                "text": "Defeito / Desnível / Buraco na Pista"
+            },
+            {
+                "id": 7850,
+                "text": "Deficiente/Acessibilidade"
+            },
+            {
+                "id": 7460,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 7210,
+                "text": "Desapropriação Indireta"
+            },
+            {
+                "id": 6671,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 6672,
+                "text": "Desmoronamento"
+            },
+            {
+                "id": 6673,
+                "text": "Desnível no Acostamento"
+            },
+            {
+                "id": 8171,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 6674,
+                "text": "Eixos Suspensos"
+            },
+            {
+                "id": 6675,
+                "text": "Enchente / Inundação / Alagamento"
+            },
+            {
+                "id": 7695,
+                "text": "Estacionamento"
+            },
+            {
+                "id": 6676,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 7933,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 6677,
+                "text": "Extravio / Bagagem Danificada"
+            },
+            {
+                "id": 6678,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 6679,
+                "text": "Falha - Acidente / Fluidez / Tráfego / Objeto"
+            },
+            {
+                "id": 6680,
+                "text": "Falha - Atrasos / Filas / Cancelamento de Viagem"
+            },
+            {
+                "id": 8905,
+                "text": "Falha na cancela do pedágio"
+            },
+            {
+                "id": 7139,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8070,
+                "text": "Falsificação"
+            },
+            {
+                "id": 7819,
+                "text": "Fibra Óptica"
+            },
+            {
+                "id": 6682,
+                "text": "Free Flow"
+            },
+            {
+                "id": 6683,
+                "text": "Fumaça / Queimada / Incêndio"
+            },
+            {
+                "id": 6684,
+                "text": "Furto"
+            },
+            {
+                "id": 7164,
+                "text": "Gasoduto"
+            },
+            {
+                "id": 7632,
+                "text": "Gratuidade/Cortesia de Bilhetes"
+            },
+            {
+                "id": 7306,
+                "text": "Homicídio"
+            },
+            {
+                "id": 6685,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 6686,
+                "text": "Imóvel"
+            },
+            {
+                "id": 7652,
+                "text": "Importunação Ofensiva ao Pudor"
+            },
+            {
+                "id": 6687,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 7847,
+                "text": "Incidente 03/04/2013 - Barcas"
+            },
+            {
+                "id": 6688,
+                "text": "Incidentes Causados por Terceiros / Natureza"
+            },
+            {
+                "id": 6689,
+                "text": "Indenização por Danos Morais"
+            },
+            {
+                "id": 7839,
+                "text": "Infração de Trânsito"
+            },
+            {
+                "id": 8124,
+                "text": "Invasão"
+            },
+            {
+                "id": 7492,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 6690,
+                "text": "Lama na Pista"
+            },
+            {
+                "id": 6691,
+                "text": "Lançamento de Objeto / Vandalismo"
+            },
+            {
+                "id": 7891,
+                "text": "Leilão"
+            },
+            {
+                "id": 7980,
+                "text": "Lesão Corporal"
+            },
+            {
+                "id": 7734,
+                "text": "Liberação de Animal Apreendido"
+            },
+            {
+                "id": 7672,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 6692,
+                "text": "Linha de Pipa"
+            },
+            {
+                "id": 8268,
+                "text": "Lixo / Entulho na Faixa de Domínio"
+            },
+            {
+                "id": 7708,
+                "text": "Locação"
+            },
+            {
+                "id": 7177,
+                "text": "Meio Ambiente"
+            },
+            {
+                "id": 7126,
+                "text": "Mureta/Guard Rail"
+            },
+            {
+                "id": 6694,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 7138,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7889,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7364,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 6696,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 7674,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 6697,
+                "text": "Óleo na Pista / Pista Escorregadia"
+            },
+            {
+                "id": 7304,
+                "text": "Omissão de Socorro"
+            },
+            {
+                "id": 7169,
+                "text": "Passarela"
+            },
+            {
+                "id": 6699,
+                "text": "Pedágio - Irregularidades na Cobrança"
+            },
+            {
+                "id": 7470,
+                "text": "Pedágio/Tarifa/Isenção"
+            },
+            {
+                "id": 7393,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6701,
+                "text": "Queda / Escorregão / Tombo"
+            },
+            {
+                "id": 6702,
+                "text": "Queda de Barreira / Barro na Pista"
+            },
+            {
+                "id": 6703,
+                "text": "Queda em Bueiro"
+            },
+            {
+                "id": 8206,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 7355,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 6705,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 8161,
+                "text": "Remoção / Comércio Ilegal"
+            },
+            {
+                "id": 7371,
+                "text": "Remuneração pelo uso da faixa de domínio"
+            },
+            {
+                "id": 6706,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 6707,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6708,
+                "text": "Riocard / Passe Livre / Bilhete Único"
+            },
+            {
+                "id": 6709,
+                "text": "Rompimento Adutora"
+            },
+            {
+                "id": 6710,
+                "text": "Rompimento da Adutora - Paralela"
+            },
+            {
+                "id": 6711,
+                "text": "Rompimento de Cabo da Rede Elétrica"
+            },
+            {
+                "id": 6712,
+                "text": "Roubo"
+            },
+            {
+                "id": 6713,
+                "text": "Segurança Pública"
+            },
+            {
+                "id": 7396,
+                "text": "Seguro"
+            },
+            {
+                "id": 6715,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 6716,
+                "text": "Servicos de Manutenção da Rodovia"
+            },
+            {
+                "id": 6717,
+                "text": "Sinalização"
+            },
+            {
+                "id": 8119,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7296,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 8305,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            },
+            {
+                "id": 7743,
+                "text": "Transferência de Bens ao Patrimônio da União"
+            },
+            {
+                "id": 7788,
+                "text": "Travessia de Cabos"
+            },
+            {
+                "id": 6719,
+                "text": "Tumulto na Estação / Embarcação"
+            },
+            {
+                "id": 8057,
+                "text": "Uso indevido do nome / Marca / Imagem das empresas do Grupo CCR"
+            },
+            {
+                "id": 8186,
+                "text": "Usucapião"
+            },
+            {
+                "id": 6720,
+                "text": "Veículo da Concessão"
+            }
+        ],
+        "Ação Monitória": [
+            {
+                "id": 7240,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6721,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7162,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 7356,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7930,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 8188,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 6722,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6723,
+                "text": "Obras"
+            },
+            {
+                "id": 7653,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6724,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 8103,
+                "text": "Rescisão Contratual"
+            }
+        ],
+        "Ação Ordinária Inominada": [
+            {
+                "id": 6725,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 8389,
+                "text": "Imóvel"
+            },
+            {
+                "id": 6726,
+                "text": "Rescisão Contratual"
+            }
+        ],
+        "Ação Popular": [
+            {
+                "id": 7888,
+                "text": "Acesso"
+            },
+            {
+                "id": 8170,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 8135,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 6727,
+                "text": "Barcas"
+            },
+            {
+                "id": 7360,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 8249,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8311,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 6728,
+                "text": "Gratuidade/Cortesia de Bilhetes"
+            },
+            {
+                "id": 6729,
+                "text": "Infração ao Contrato de Concessão"
+            },
+            {
+                "id": 7664,
+                "text": "Isenção Coronavírus"
+            },
+            {
+                "id": 7361,
+                "text": "Leilão"
+            },
+            {
+                "id": 6731,
+                "text": "Licitação"
+            },
+            {
+                "id": 7998,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 6733,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7311,
+                "text": "Passarela"
+            },
+            {
+                "id": 6734,
+                "text": "Pedágio"
+            },
+            {
+                "id": 6735,
+                "text": "Reajuste de Tarifa Barcas"
+            },
+            {
+                "id": 7212,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 6736,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 6737,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6738,
+                "text": "Rompimento Ilicito de Contrato"
+            },
+            {
+                "id": 7135,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Ação Possessória": [
+            {
+                "id": 7694,
+                "text": "Acesso"
+            },
+            {
+                "id": 6740,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 8134,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7763,
+                "text": "Imóvel"
+            },
+            {
+                "id": 7142,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 6741,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 8035,
+                "text": "Retificação de Área"
+            },
+            {
+                "id": 6742,
+                "text": "Usucapião"
+            }
+        ],
+        "Ação Regressiva": [
+            {
+                "id": 6743,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 8105,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7143,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7137,
+                "text": "Animal na Pista - Silvestre"
+            },
+            {
+                "id": 6745,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 7314,
+                "text": "Defeito / Desnível / Buraco na Pista"
+            },
+            {
+                "id": 7307,
+                "text": "Desmoronamento"
+            },
+            {
+                "id": 6746,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8418,
+                "text": "Estacionamento"
+            },
+            {
+                "id": 7451,
+                "text": "Extravio / Bagagem Danificada"
+            },
+            {
+                "id": 7261,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8063,
+                "text": "Lançamento de Objeto / Vandalismo"
+            },
+            {
+                "id": 8313,
+                "text": "Mureta/Guard Rail"
+            },
+            {
+                "id": 6748,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 8143,
+                "text": "Obras"
+            },
+            {
+                "id": 6749,
+                "text": "Óleo na Pista / Pista Escorregadia"
+            },
+            {
+                "id": 6750,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6751,
+                "text": "Queda de Barreira / Barro na Pista"
+            },
+            {
+                "id": 8107,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 6752,
+                "text": "Sinalização"
+            },
+            {
+                "id": 7213,
+                "text": "Terceirizada"
+            }
+        ],
+        "Ação Renovatória de Locação": [
+            {
+                "id": 6753,
+                "text": "Barcas"
+            },
+            {
+                "id": 6754,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7249,
+                "text": "Contrato de Locação"
+            },
+            {
+                "id": 8248,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7978,
+                "text": "Locação"
+            },
+            {
+                "id": 8224,
+                "text": "Revisional de Contrato"
+            }
+        ],
+        "Ação Rescisória": [
+            {
+                "id": 6755,
+                "text": "Acesso"
+            },
+            {
+                "id": 7880,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 8209,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 8088,
+                "text": "Barcas"
+            },
+            {
+                "id": 7250,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7193,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 8112,
+                "text": "Defeito / Desnível / Buraco na Pista"
+            },
+            {
+                "id": 6756,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8349,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 7907,
+                "text": "Imóveis - Barcas"
+            },
+            {
+                "id": 7699,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 6758,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 7864,
+                "text": "Segurança Pública"
+            }
+        ],
+        "Ação Revisional": [
+            {
+                "id": 8412,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 8399,
+                "text": "Taxa de Ocupação"
+            }
+        ],
+        "Ação Revisional de Contrato": [
+            {
+                "id": 6759,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6760,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6761,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 7180,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 7257,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 8122,
+                "text": "Travessia de Cabos"
+            }
+        ],
+        "Arbitragem": [
+            {
+                "id": 7656,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 8283,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8434,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 6762,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 8078,
+                "text": "Revisional de Contrato"
+            }
+        ],
+        "Arresto": [
+            {
+                "id": 7644,
+                "text": "Obras"
+            },
+            {
+                "id": 7887,
+                "text": "Obras/Ampliações"
+            }
+        ],
+        "Auto de Infração": [
+            {
+                "id": 8237,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 8420,
+                "text": "Taxas"
+            }
+        ],
+        "Carta Rogatória": [
+            {
+                "id": 7431,
+                "text": "Danos ao Patrimônio"
+            }
+        ],
+        "Denúncia": [
+            {
+                "id": 7232,
+                "text": "Revisional de Contrato"
+            }
+        ],
+        "Dissídio Coletivo": [
+            {
+                "id": 8374,
+                "text": "Obrigações Trabalhistas"
+            }
+        ],
+        "Embargos à Execução": [
+            {
+                "id": 8312,
+                "text": "Exibição de documentos"
+            }
+        ],
+        "Encampação": [
+            {
+                "id": 7350,
+                "text": "Rompimento Ilicito de Contrato"
+            }
+        ],
+        "Execução": [
+            {
+                "id": 8198,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7417,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 7449,
+                "text": "Remuneração pelo uso da faixa de domínio"
+            }
+        ],
+        "Execução Fiscal": [
+            {
+                "id": 7926,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7147,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 7670,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 6763,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 6764,
+                "text": "Imóveis - Barcas"
+            },
+            {
+                "id": 6765,
+                "text": "IPTU"
+            },
+            {
+                "id": 6766,
+                "text": "ISS"
+            },
+            {
+                "id": 6767,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 7997,
+                "text": "Taxas"
+            }
+        ],
+        "Falência": [
+            {
+                "id": 7174,
+                "text": "Acesso Irregular"
+            }
+        ],
+        "Homologação de Transação Extrajudicial": [
+            {
+                "id": 8965,
+                "text": "Falha na prestação/evento morte"
+            },
+            {
+                "id": 8885,
+                "text": "Falha no trem/morte"
+            }
+        ],
+        "Incidente de desconsideração da personalidade jurídica": [
+            {
+                "id": 8705,
+                "text": "Descumprimento Contratual"
+            }
+        ],
+        "Inquérito Policial": [
+            {
+                "id": 8347,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            }
+        ],
+        "Interdito Proibitório": [
+            {
+                "id": 7698,
+                "text": "Acesso"
+            },
+            {
+                "id": 6768,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 8195,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 7757,
+                "text": "Barcas"
+            },
+            {
+                "id": 8099,
+                "text": "Bloqueio na Pista"
+            },
+            {
+                "id": 6769,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7386,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 6770,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 8060,
+                "text": "Falha na Prestação de Serviços / Atendimento"
+            },
+            {
+                "id": 8114,
+                "text": "Imóvel"
+            },
+            {
+                "id": 8408,
+                "text": "Invasão"
+            },
+            {
+                "id": 8117,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 6771,
+                "text": "Manifestação"
+            },
+            {
+                "id": 7881,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7308,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 7778,
+                "text": "Pedágio"
+            },
+            {
+                "id": 8372,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7914,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 8131,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 8307,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Interpelação Judicial": [
+            {
+                "id": 7275,
+                "text": "Revisional de Contrato"
+            }
+        ],
+        "Mandado de Segurança": [
+            {
+                "id": 7643,
+                "text": "Acesso"
+            },
+            {
+                "id": 6773,
+                "text": "Acesso Cobrança"
+            },
+            {
+                "id": 6774,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 7759,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7659,
+                "text": "Balança (Pesagem)"
+            },
+            {
+                "id": 7272,
+                "text": "Barcas"
+            },
+            {
+                "id": 7747,
+                "text": "Barracas na Faixa de Domínio"
+            },
+            {
+                "id": 7251,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7181,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 7366,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7856,
+                "text": "Eixos Suspensos"
+            },
+            {
+                "id": 8379,
+                "text": "Estabilidade - Gestante"
+            },
+            {
+                "id": 8096,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 6775,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 8056,
+                "text": "Gratuidade/Cortesia de Bilhetes"
+            },
+            {
+                "id": 6776,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 8089,
+                "text": "Interpretação e Aplicação de Leis / Resoluções / Normas / Portarias"
+            },
+            {
+                "id": 7724,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 7624,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 8274,
+                "text": "Licitação"
+            },
+            {
+                "id": 8230,
+                "text": "Lixo / Entulho na Faixa de Domínio"
+            },
+            {
+                "id": 8387,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 8027,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 7832,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 8019,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7388,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 7820,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7866,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7972,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 7876,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 7755,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 7662,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 6780,
+                "text": "Rompimento Adutora"
+            },
+            {
+                "id": 8042,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7775,
+                "text": "Sinalização"
+            },
+            {
+                "id": 8338,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7723,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 8308,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            },
+            {
+                "id": 7815,
+                "text": "Transferência de Bens ao Patrimônio da União"
+            },
+            {
+                "id": 7764,
+                "text": "Travessia de Cabos"
+            }
+        ],
+        "Manutenção de Posse": [
+            {
+                "id": 8074,
+                "text": "Acesso"
+            },
+            {
+                "id": 6781,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6782,
+                "text": "Barcas"
+            },
+            {
+                "id": 6783,
+                "text": "Barracas na Faixa de Domínio"
+            },
+            {
+                "id": 7471,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7752,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 6784,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7909,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 8345,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 6785,
+                "text": "Reintegração de Posse"
+            }
+        ],
+        "Medida Cautelar": [
+            {
+                "id": 7789,
+                "text": "Acesso"
+            },
+            {
+                "id": 6786,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 8098,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7765,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 8183,
+                "text": "Árvore / Poste"
+            },
+            {
+                "id": 7918,
+                "text": "Balança (Pesagem)"
+            },
+            {
+                "id": 7859,
+                "text": "Bloqueio na Pista"
+            },
+            {
+                "id": 8046,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7710,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8118,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 8333,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7211,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 7771,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7216,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7773,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 7968,
+                "text": "Pedágio"
+            },
+            {
+                "id": 6788,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7929,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 8149,
+                "text": "Reintegração de Posse"
+            },
+            {
+                "id": 6789,
+                "text": "Remuneração pelo uso da faixa de domínio"
+            },
+            {
+                "id": 8150,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 7908,
+                "text": "Rompimento Ilicito de Contrato"
+            },
+            {
+                "id": 6790,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7678,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 8144,
+                "text": "Travessia de Cabos"
+            }
+        ],
+        "Monitória": [
+            {
+                "id": 6791,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 6792,
+                "text": "Descumprimento de Obrigação"
+            }
+        ],
+        "Ordinária": [
+            {
+                "id": 6793,
+                "text": "Acesso"
+            },
+            {
+                "id": 7357,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 8342,
+                "text": "Acidente"
+            },
+            {
+                "id": 7746,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 8221,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7367,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7533,
+                "text": "Animal na Pista - Silvestre"
+            },
+            {
+                "id": 8043,
+                "text": "Balança (Pesagem)"
+            },
+            {
+                "id": 8153,
+                "text": "Barcas"
+            },
+            {
+                "id": 7418,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 7530,
+                "text": "Cobrança"
+            },
+            {
+                "id": 7427,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 8425,
+                "text": "Cobrança de Pedágio"
+            },
+            {
+                "id": 7802,
+                "text": "Conservação"
+            },
+            {
+                "id": 8329,
+                "text": "Construções Lindeiras / Aprovação de Projeto"
+            },
+            {
+                "id": 8130,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 8279,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 8396,
+                "text": "Defeito / Desnível / Buraco na Pista"
+            },
+            {
+                "id": 8126,
+                "text": "Desapropriação Direta"
+            },
+            {
+                "id": 6795,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 8102,
+                "text": "Direito de Voto"
+            },
+            {
+                "id": 7608,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 8111,
+                "text": "Eixos Suspensos"
+            },
+            {
+                "id": 8137,
+                "text": "Enchente / Inundação / Alagamento"
+            },
+            {
+                "id": 8202,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 7766,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 6796,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7667,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 7430,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 8348,
+                "text": "Imóvel"
+            },
+            {
+                "id": 8417,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6797,
+                "text": "Infração ao Contrato de Concessão"
+            },
+            {
+                "id": 7368,
+                "text": "Interpretação e Aplicação de Leis / Resoluções / Normas / Portarias"
+            },
+            {
+                "id": 7236,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 7834,
+                "text": "Lançamento de Objeto / Vandalismo"
+            },
+            {
+                "id": 7949,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 8276,
+                "text": "Licitação"
+            },
+            {
+                "id": 8240,
+                "text": "Lixo / Entulho na Faixa de Domínio"
+            },
+            {
+                "id": 7707,
+                "text": "Locação"
+            },
+            {
+                "id": 8376,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 7627,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 7869,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 6799,
+                "text": "Obrigações do Contrato de Concessão"
+            },
+            {
+                "id": 7663,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 7638,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 7753,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 8058,
+                "text": "Óleo na Pista / Pista Escorregadia"
+            },
+            {
+                "id": 6800,
+                "text": "Pedágio"
+            },
+            {
+                "id": 6801,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 8327,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 6802,
+                "text": "Reajuste Anual das Tarifas de Pedágio"
+            },
+            {
+                "id": 6804,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            },
+            {
+                "id": 8138,
+                "text": "Remoção / Comércio Ilegal"
+            },
+            {
+                "id": 8127,
+                "text": "Repetição de Indébito"
+            },
+            {
+                "id": 6806,
+                "text": "Rescisão Contratual"
+            },
+            {
+                "id": 7399,
+                "text": "Revisional de Contrato"
+            },
+            {
+                "id": 8270,
+                "text": "Rompimento Adutora"
+            },
+            {
+                "id": 8397,
+                "text": "Seguro"
+            },
+            {
+                "id": 7883,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 7780,
+                "text": "Sinalização"
+            },
+            {
+                "id": 7605,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7184,
+                "text": "Tarifa de Pedágio"
+            },
+            {
+                "id": 7640,
+                "text": "Tarifa de Pedágio - Acordo de Leniência"
+            },
+            {
+                "id": 8022,
+                "text": "Taxas"
+            },
+            {
+                "id": 8277,
+                "text": "Transferência de Bens ao Patrimônio da União"
+            }
+        ],
+        "Pedido de Restituição": [
+            {
+                "id": 7963,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7948,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Pleito de Reequilíbrio": [
+            {
+                "id": 8278,
+                "text": "Reequilibrio Econômico-Financeiro do Contrato de Concessão"
+            }
+        ],
+        "Procedimento Ministerial": [
+            {
+                "id": 8084,
+                "text": "Descumprimento de Obrigação"
+            }
+        ],
+        "Procedimento Procon": [
+            {
+                "id": 7890,
+                "text": "Acesso"
+            },
+            {
+                "id": 7760,
+                "text": "Acidente de Trânsito / Abalroamento / Colisão / Engavetamento"
+            },
+            {
+                "id": 7953,
+                "text": "Alagamento / Aquaplanagem / Água na Pista"
+            },
+            {
+                "id": 7673,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7617,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7607,
+                "text": "Cobrança de Pedágio"
+            },
+            {
+                "id": 7655,
+                "text": "Conservação"
+            },
+            {
+                "id": 8391,
+                "text": "Danos à Veículos"
+            },
+            {
+                "id": 6808,
+                "text": "Defeito / Desnível / Buraco na Pista"
+            },
+            {
+                "id": 8200,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7615,
+                "text": "Evasão de Pedágio"
+            },
+            {
+                "id": 7609,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 8406,
+                "text": "Falha - Acidente / Fluidez / Tráfego / Objeto"
+            },
+            {
+                "id": 6809,
+                "text": "Falha - Atrasos / Filas / Cancelamento de Viagem"
+            },
+            {
+                "id": 7614,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8392,
+                "text": "Furto"
+            },
+            {
+                "id": 8262,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 8386,
+                "text": "Informações"
+            },
+            {
+                "id": 8340,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 6810,
+                "text": "Lançamento de Objeto / Vandalismo"
+            },
+            {
+                "id": 6811,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 7705,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 7616,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 8275,
+                "text": "Ofício/Solicitação de Comparecimento/Informações"
+            },
+            {
+                "id": 8264,
+                "text": "Óleo na Pista / Pista Escorregadia"
+            },
+            {
+                "id": 7190,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7606,
+                "text": "Pedágio - Irregularidades na Cobrança"
+            },
+            {
+                "id": 7534,
+                "text": "Pedágio/Tarifa/Isenção"
+            },
+            {
+                "id": 7620,
+                "text": "Repetição de Indébito"
+            },
+            {
+                "id": 8402,
+                "text": "Riocard / Passe Livre / Bilhete Único"
+            },
+            {
+                "id": 7919,
+                "text": "Roubo"
+            },
+            {
+                "id": 7835,
+                "text": "Segurança Pública"
+            },
+            {
+                "id": 7610,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 8287,
+                "text": "Servicos de Manutenção da Rodovia"
+            },
+            {
+                "id": 8154,
+                "text": "Sinalização"
+            },
+            {
+                "id": 7613,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Processo Administrativo": [
+            {
+                "id": 7720,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 8394,
+                "text": "Falha na Prestação de Serviços /Atendimento"
+            },
+            {
+                "id": 8261,
+                "text": "Fibra Óptica"
+            },
+            {
+                "id": 8432,
+                "text": "Free Flow"
+            },
+            {
+                "id": 6813,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 7715,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 8030,
+                "text": "Obrigações Trabalhistas"
+            },
+            {
+                "id": 8395,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 6814,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 7463,
+                "text": "Retificação de Área"
+            },
+            {
+                "id": 7618,
+                "text": "Sem Parar / Onda Livre / TAG / Cancela"
+            },
+            {
+                "id": 8411,
+                "text": "Transferência de Bens ao Patrimônio da União"
+            }
+        ],
+        "Protesto Interruptivo de Prescrição": [
+            {
+                "id": 7234,
+                "text": "Animal na Pista - Doméstico"
+            },
+            {
+                "id": 7535,
+                "text": "Animal na Pista - Silvestre"
+            },
+            {
+                "id": 8745,
+                "text": "Suspensão da Prescrição"
+            }
+        ],
+        "Reclamação Trabalhista": [
+            {
+                "id": 7776,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7944,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7438,
+                "text": "Isenção da Cobrança de Pedágio"
+            },
+            {
+                "id": 7745,
+                "text": "Liberação de Veículo Apreendido"
+            },
+            {
+                "id": 7823,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 8039,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7959,
+                "text": "Tarifa de Pedágio"
+            }
+        ],
+        "Recuperação Judicial": [
+            {
+                "id": 6816,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6817,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 8026,
+                "text": "Receitas Acessórias"
+            }
+        ],
+        "Representação": [
+            {
+                "id": 8296,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7441,
+                "text": "Informações"
+            },
+            {
+                "id": 8192,
+                "text": "Obras/Ampliações"
+            },
+            {
+                "id": 8104,
+                "text": "Pedágio"
+            },
+            {
+                "id": 7284,
+                "text": "Solicitação de Informações"
+            }
+        ],
+        "Retificação de Área": [
+            {
+                "id": 7243,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 8403,
+                "text": "Demarcação de Terras"
+            },
+            {
+                "id": 8085,
+                "text": "Faixa de Domínio"
+            },
+            {
+                "id": 7945,
+                "text": "Imóvel"
+            },
+            {
+                "id": 6818,
+                "text": "Retificação de Área"
+            }
+        ],
+        "Retificação de Registro Imobiliário": [
+            {
+                "id": 7269,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 6819,
+                "text": "Demarcação de Terras"
+            },
+            {
+                "id": 8344,
+                "text": "Imóvel"
+            },
+            {
+                "id": 6820,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 6821,
+                "text": "Retificação de Área"
+            }
+        ],
+        "Segredo de Justiça": [
+            {
+                "id": 8728,
+                "text": "Segredo de Justiça"
+            }
+        ],
+        "Sustação de Protesto": [
+            {
+                "id": 7885,
+                "text": "Acesso"
+            },
+            {
+                "id": 6822,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7954,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8015,
+                "text": "Duplicatas"
+            },
+            {
+                "id": 8244,
+                "text": "Prestação de Serviços"
+            },
+            {
+                "id": 7474,
+                "text": "Revisional de Contrato"
+            }
+        ],
+        "Transação Extrajudicial": [],
+        "Tutela Antecipada Antecedente": [
+            {
+                "id": 6823,
+                "text": "Acesso Irregular"
+            },
+            {
+                "id": 6824,
+                "text": "Cessão de Uso de Área"
+            },
+            {
+                "id": 6825,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            },
+            {
+                "id": 7259,
+                "text": "Danos decorrentes de Desapropriação"
+            },
+            {
+                "id": 6826,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 6827,
+                "text": "Imagens / Vídeo / Som"
+            },
+            {
+                "id": 6828,
+                "text": "Inadimplemento Contratual"
+            },
+            {
+                "id": 6830,
+                "text": "Obras"
+            },
+            {
+                "id": 7179,
+                "text": "Obrigações do Contrato de Concessão"
+            }
+        ],
+        "Uniformização de Jurisprudência": [
+            {
+                "id": 7862,
+                "text": "Rompimento Adutora"
+            }
+        ]
+    },
+    "Trabalhista": {
+        "Ação Anulatória": [
+            {
+                "id": 6998,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação Cautelar": [
+            {
+                "id": 7641,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 6999,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7000,
+                "text": "Exibição de documentos"
+            }
+        ],
+        "Ação Civil Pública": [
+            {
+                "id": 7392,
+                "text": "Descumprimento de Obrigação"
+            },
+            {
+                "id": 7001,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7003,
+                "text": "Sindicato"
+            }
+        ],
+        "Ação Coletiva": [
+            {
+                "id": 7004,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação De Cobrança": [
+            {
+                "id": 7157,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação de Cobrança": [
+            {
+                "id": 7962,
+                "text": "Obrigações Trabalhistas"
+            }
+        ],
+        "Ação de Consignação em Pagamento": [
+            {
+                "id": 7006,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação de Cumprimento": [
+            {
+                "id": 7007,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8180,
+                "text": "Sindicato"
+            }
+        ],
+        "Ação de Execução de Título Extrajudicial": [
+            {
+                "id": 7714,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação de Obrigação de Fazer": [
+            {
+                "id": 7008,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação de Obrigação de Não Fazer": [
+            {
+                "id": 7009,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação Declaratória": [
+            {
+                "id": 7010,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8168,
+                "text": "Sindicato"
+            }
+        ],
+        "Ação Indenizatória": [
+            {
+                "id": 7011,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 7012,
+                "text": "Danos Morais"
+            },
+            {
+                "id": 7444,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7713,
+                "text": "Doença Ocupacional"
+            }
+        ],
+        "Ação Regressiva": [
+            {
+                "id": 7013,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 7014,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação Rescisória": [
+            {
+                "id": 7015,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Ação Revisional": [
+            {
+                "id": 7016,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Arresto": [
+            {
+                "id": 7017,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Dissídio Coletivo": [
+            {
+                "id": 7018,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7884,
+                "text": "Sindicato"
+            }
+        ],
+        "Execução Fiscal": [
+            {
+                "id": 8162,
+                "text": "Obrigações Trabalhistas"
+            }
+        ],
+        "Homologação de Acordo Extrajudicial": [
+            {
+                "id": 7019,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7020,
+                "text": "Estabilidade - CIPA"
+            },
+            {
+                "id": 8152,
+                "text": "Estabilidade - Gestante"
+            }
+        ],
+        "Inquérito para apuração de falta grave": [
+            {
+                "id": 7660,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Mandado de Segurança": [
+            {
+                "id": 7021,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8331,
+                "text": "Doença Ocupacional"
+            },
+            {
+                "id": 7749,
+                "text": "Estabilidade - Aposentadoria"
+            },
+            {
+                "id": 7769,
+                "text": "Estabilidade - CIPA"
+            },
+            {
+                "id": 8400,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 7721,
+                "text": "Sindicato"
+            }
+        ],
+        "Medida Cautelar": [
+            {
+                "id": 7761,
+                "text": "Obrigações Trabalhistas"
+            }
+        ],
+        "Ordinária": [
+            {
+                "id": 7222,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 7022,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7023,
+                "text": "Doença Ocupacional"
+            },
+            {
+                "id": 8398,
+                "text": "Estabilidade - Gestante"
+            },
+            {
+                "id": 8377,
+                "text": "Objeto na Pista"
+            },
+            {
+                "id": 8380,
+                "text": "Sindicato"
+            }
+        ],
+        "Procedimento Ministerial": [
+            {
+                "id": 8289,
+                "text": "Acidente de Trabalho"
+            }
+        ],
+        "Processo Administrativo": [
+            {
+                "id": 8366,
+                "text": "Acidente de Trabalho"
+            }
+        ],
+        "Reclamação Trabalhista - Colaborador": [
+            {
+                "id": 7026,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 7030,
+                "text": "Assédio Sexual"
+            },
+            {
+                "id": 7310,
+                "text": "Auxílio Doença"
+            },
+            {
+                "id": 7024,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 7025,
+                "text": "Doença Ocupacional"
+            },
+            {
+                "id": 7028,
+                "text": "Estabilidade - Aposentadoria"
+            },
+            {
+                "id": 7027,
+                "text": "Estabilidade - CIPA"
+            },
+            {
+                "id": 7029,
+                "text": "Estabilidade - Gestante"
+            },
+            {
+                "id": 7961,
+                "text": "Exibição de documentos"
+            },
+            {
+                "id": 7873,
+                "text": "Sindicato"
+            }
+        ],
+        "Reclamação Trabalhista - Terceirizada": [
+            {
+                "id": 8467,
+                "text": "Acidente de Trabalho"
+            },
+            {
+                "id": 8471,
+                "text": "Assédio Sexual"
+            },
+            {
+                "id": 8472,
+                "text": "Auxílio Doença"
+            },
+            {
+                "id": 8465,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8466,
+                "text": "Doença Ocupacional"
+            },
+            {
+                "id": 8469,
+                "text": "Estabilidade - Aposentadoria"
+            },
+            {
+                "id": 8468,
+                "text": "Estabilidade - CIPA"
+            },
+            {
+                "id": 8470,
+                "text": "Estabilidade - Gestante"
+            }
+        ],
+        "Recuperação Judicial": [
+            {
+                "id": 7031,
+                "text": "Direitos Trabalhistas"
+            }
+        ],
+        "Segredo de Justiça": [
+            {
+                "id": 8731,
+                "text": "Segredo de Justiça"
+            }
+        ]
+    },
+    "Tributário": {
+        "Ação Anulatória": [
+            {
+                "id": 8525,
+                "text": "IPTU"
+            },
+            {
+                "id": 7895,
+                "text": "IPVA"
+            },
+            {
+                "id": 7032,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7033,
+                "text": "ISS"
+            },
+            {
+                "id": 7034,
+                "text": "Taxas"
+            }
+        ],
+        "Ação Cautelar": [
+            {
+                "id": 8236,
+                "text": "ICMS"
+            },
+            {
+                "id": 7035,
+                "text": "IPTU"
+            },
+            {
+                "id": 8359,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7036,
+                "text": "ISS"
+            },
+            {
+                "id": 8251,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 7709,
+                "text": "Taxas"
+            }
+        ],
+        "Ação Civil Pública": [
+            {
+                "id": 8433,
+                "text": "ICMS"
+            }
+        ],
+        "Ação de Cobrança": [
+            {
+                "id": 7783,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8239,
+                "text": "Importação"
+            },
+            {
+                "id": 7037,
+                "text": "IPTU"
+            },
+            {
+                "id": 8069,
+                "text": "IRPJ"
+            },
+            {
+                "id": 8166,
+                "text": "Solicitação de Informações"
+            }
+        ],
+        "Ação de Consignação em Pagamento": [
+            {
+                "id": 7038,
+                "text": "ISS"
+            }
+        ],
+        "Ação de Execução de Título Extrajudicial": [
+            {
+                "id": 8368,
+                "text": "ICMS"
+            }
+        ],
+        "Ação de Obrigação de Fazer": [
+            {
+                "id": 7039,
+                "text": "Cobrança / Protesto Indevido / Duplicidade de Pagamento"
+            }
+        ],
+        "Ação de Repetição de Indébito": [
+            {
+                "id": 8292,
+                "text": "IPTU"
+            },
+            {
+                "id": 8225,
+                "text": "IRRF"
+            },
+            {
+                "id": 7040,
+                "text": "ISS"
+            },
+            {
+                "id": 8252,
+                "text": "PIS/COFINS"
+            }
+        ],
+        "Ação de Ressarcimento": [
+            {
+                "id": 8197,
+                "text": "FGTS"
+            }
+        ],
+        "Ação Declaratória": [
+            {
+                "id": 7041,
+                "text": "IPTU"
+            },
+            {
+                "id": 7042,
+                "text": "ISS"
+            },
+            {
+                "id": 8273,
+                "text": "PERT - Programa Especial de Regularização Tributária"
+            },
+            {
+                "id": 8255,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 8083,
+                "text": "SAT"
+            }
+        ],
+        "Ação Popular": [
+            {
+                "id": 7043,
+                "text": "ICMS"
+            }
+        ],
+        "Auto de Constatação": [
+            {
+                "id": 8172,
+                "text": "Multa - Fiscal/Tributária"
+            }
+        ],
+        "Auto de Infração": [
+            {
+                "id": 7044,
+                "text": "COFINS"
+            },
+            {
+                "id": 8250,
+                "text": "CSLL"
+            },
+            {
+                "id": 7722,
+                "text": "Danos ao Patrimônio"
+            },
+            {
+                "id": 7045,
+                "text": "DARF - Recolhimento Incorreto"
+            },
+            {
+                "id": 7046,
+                "text": "FUNTTEL"
+            },
+            {
+                "id": 7047,
+                "text": "ICMS"
+            },
+            {
+                "id": 7048,
+                "text": "Importação"
+            },
+            {
+                "id": 7049,
+                "text": "Infração ao Contrato de Concessão"
+            },
+            {
+                "id": 7774,
+                "text": "Instituto Nacional do Seguro Social (INSS)"
+            },
+            {
+                "id": 7050,
+                "text": "IPTU"
+            },
+            {
+                "id": 7051,
+                "text": "IRPJ"
+            },
+            {
+                "id": 8355,
+                "text": "IRRF"
+            },
+            {
+                "id": 7052,
+                "text": "ISS"
+            },
+            {
+                "id": 7053,
+                "text": "ISS/Coper"
+            },
+            {
+                "id": 7648,
+                "text": "Licença Comercial"
+            },
+            {
+                "id": 7054,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 7055,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 8353,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 7671,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 7838,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7229,
+                "text": "Taxas"
+            },
+            {
+                "id": 7446,
+                "text": "Tributos Diversos"
+            }
+        ],
+        "Dissídio Coletivo": [
+            {
+                "id": 8159,
+                "text": "PIS"
+            }
+        ],
+        "Embargos à Execução": [
+            {
+                "id": 8282,
+                "text": "IRPJ"
+            },
+            {
+                "id": 8053,
+                "text": "IRRF"
+            }
+        ],
+        "Execução Fiscal": [
+            {
+                "id": 7056,
+                "text": "Barcas"
+            },
+            {
+                "id": 7675,
+                "text": "Cobrança"
+            },
+            {
+                "id": 8245,
+                "text": "COFINS"
+            },
+            {
+                "id": 8243,
+                "text": "CSLL"
+            },
+            {
+                "id": 7974,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8233,
+                "text": "FGTS"
+            },
+            {
+                "id": 7160,
+                "text": "ICMS"
+            },
+            {
+                "id": 8173,
+                "text": "Informações"
+            },
+            {
+                "id": 8065,
+                "text": "Instituto Nacional do Seguro Social (INSS)"
+            },
+            {
+                "id": 7057,
+                "text": "IPTU"
+            },
+            {
+                "id": 7058,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7059,
+                "text": "IRRF"
+            },
+            {
+                "id": 7060,
+                "text": "ISS"
+            },
+            {
+                "id": 7061,
+                "text": "ISS/Coper"
+            },
+            {
+                "id": 7062,
+                "text": "Multa - Administrativa"
+            },
+            {
+                "id": 7063,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 7064,
+                "text": "Ocupação Irregular"
+            },
+            {
+                "id": 7253,
+                "text": "Outros"
+            },
+            {
+                "id": 7877,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 7634,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 8565,
+                "text": "Receitas Acessórias"
+            },
+            {
+                "id": 8254,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7495,
+                "text": "Taxa de Ocupação"
+            },
+            {
+                "id": 7065,
+                "text": "Taxas"
+            },
+            {
+                "id": 7467,
+                "text": "Tributos Diversos"
+            }
+        ],
+        "Mandado de Segurança": [
+            {
+                "id": 8309,
+                "text": "COFINS"
+            },
+            {
+                "id": 7066,
+                "text": "FGTS"
+            },
+            {
+                "id": 7067,
+                "text": "ICMS"
+            },
+            {
+                "id": 7068,
+                "text": "Importação"
+            },
+            {
+                "id": 8358,
+                "text": "Informações"
+            },
+            {
+                "id": 7175,
+                "text": "Instituto Nacional Do Seguro Social (INSS)"
+            },
+            {
+                "id": 7109,
+                "text": "IPTU"
+            },
+            {
+                "id": 7070,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7071,
+                "text": "ISS"
+            },
+            {
+                "id": 7072,
+                "text": "ITBI - Imposto de Transação de Bens Imóveis"
+            },
+            {
+                "id": 8362,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 8354,
+                "text": "PERT - Programa Especial de Regularização Tributária"
+            },
+            {
+                "id": 7073,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 7989,
+                "text": "SAT"
+            },
+            {
+                "id": 8097,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7875,
+                "text": "Taxas"
+            }
+        ],
+        "Medida Cautelar": [
+            {
+                "id": 7074,
+                "text": "IPTU"
+            },
+            {
+                "id": 7075,
+                "text": "ISS"
+            },
+            {
+                "id": 8257,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 7706,
+                "text": "Taxas"
+            }
+        ],
+        "Notificação": [
+            {
+                "id": 7076,
+                "text": "FUST"
+            },
+            {
+                "id": 7077,
+                "text": "IPTU"
+            },
+            {
+                "id": 7149,
+                "text": "ISS"
+            },
+            {
+                "id": 7078,
+                "text": "ISS/Coper"
+            },
+            {
+                "id": 7265,
+                "text": "Outros"
+            },
+            {
+                "id": 7079,
+                "text": "Taxas"
+            }
+        ],
+        "Ordinária": [
+            {
+                "id": 8217,
+                "text": "COFINS"
+            },
+            {
+                "id": 7349,
+                "text": "CSLL"
+            },
+            {
+                "id": 8414,
+                "text": "Direitos Trabalhistas"
+            },
+            {
+                "id": 8356,
+                "text": "FGTS"
+            },
+            {
+                "id": 8218,
+                "text": "FUST"
+            },
+            {
+                "id": 8314,
+                "text": "ICMS"
+            },
+            {
+                "id": 8231,
+                "text": "Importação"
+            },
+            {
+                "id": 7704,
+                "text": "Instituto Nacional do Seguro Social (INSS)"
+            },
+            {
+                "id": 7080,
+                "text": "IPTU"
+            },
+            {
+                "id": 7081,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7354,
+                "text": "ISS"
+            },
+            {
+                "id": 7348,
+                "text": "ISS/Coper"
+            },
+            {
+                "id": 8109,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 8210,
+                "text": "PIS"
+            },
+            {
+                "id": 8383,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 8357,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 8204,
+                "text": "SAT"
+            },
+            {
+                "id": 8361,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7082,
+                "text": "Taxas"
+            }
+        ],
+        "Pedido de Restituição": [
+            {
+                "id": 8133,
+                "text": "ICMS"
+            },
+            {
+                "id": 8352,
+                "text": "Instituto Nacional do Seguro Social (INSS)"
+            },
+            {
+                "id": 8256,
+                "text": "IRPJ"
+            },
+            {
+                "id": 8212,
+                "text": "IRRF"
+            },
+            {
+                "id": 8016,
+                "text": "ISS"
+            },
+            {
+                "id": 7645,
+                "text": "ISS/Coper"
+            },
+            {
+                "id": 7083,
+                "text": "PIS/COFINS"
+            }
+        ],
+        "PER/DCOMP": [
+            {
+                "id": 7084,
+                "text": "COFINS"
+            },
+            {
+                "id": 7085,
+                "text": "CSLL"
+            },
+            {
+                "id": 8226,
+                "text": "DARF - Recolhimento Incorreto"
+            },
+            {
+                "id": 7086,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7087,
+                "text": "IRRF"
+            },
+            {
+                "id": 7088,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 7089,
+                "text": "PIS"
+            },
+            {
+                "id": 8178,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 7254,
+                "text": "Taxas"
+            }
+        ],
+        "Procedimento Ministerial": [
+            {
+                "id": 8363,
+                "text": "Informações"
+            },
+            {
+                "id": 8365,
+                "text": "Instituto Nacional do Seguro Social (INSS)"
+            }
+        ],
+        "Processo Administrativo": [
+            {
+                "id": 7090,
+                "text": "COFINS"
+            },
+            {
+                "id": 7091,
+                "text": "CSLL"
+            },
+            {
+                "id": 7621,
+                "text": "DARF - Recolhimento Incorreto"
+            },
+            {
+                "id": 8219,
+                "text": "FGTS"
+            },
+            {
+                "id": 8190,
+                "text": "ICMS"
+            },
+            {
+                "id": 7700,
+                "text": "Instituto Nacional do Seguro Social (INSS)"
+            },
+            {
+                "id": 7092,
+                "text": "IPTU"
+            },
+            {
+                "id": 7093,
+                "text": "IRPJ"
+            },
+            {
+                "id": 7094,
+                "text": "IRRF"
+            },
+            {
+                "id": 7223,
+                "text": "ISS"
+            },
+            {
+                "id": 7095,
+                "text": "ISS/Coper"
+            },
+            {
+                "id": 8214,
+                "text": "ITBI - Imposto de Transação de Bens Imóveis"
+            },
+            {
+                "id": 7781,
+                "text": "Licença Comercial"
+            },
+            {
+                "id": 7096,
+                "text": "Multa - Fiscal/Tributária"
+            },
+            {
+                "id": 7097,
+                "text": "PERT - Programa Especial de Regularização Tributária"
+            },
+            {
+                "id": 7098,
+                "text": "PIS"
+            },
+            {
+                "id": 8216,
+                "text": "PIS/COFINS"
+            },
+            {
+                "id": 7777,
+                "text": "Propagando/Publicidade"
+            },
+            {
+                "id": 8351,
+                "text": "SAT"
+            },
+            {
+                "id": 8350,
+                "text": "Solicitação de Informações"
+            },
+            {
+                "id": 7099,
+                "text": "Taxas"
+            }
+        ],
+        "Representação": [
+            {
+                "id": 8364,
+                "text": "ISS"
+            }
+        ],
+        "Segredo de Justiça": [
+            {
+                "id": 8732,
+                "text": "Segredo de Justiça"
+            }
+        ],
+        "Termo de Intimação": [
+            {
+                "id": 8201,
+                "text": "IPTU"
+            },
+            {
+                "id": 8242,
+                "text": "PIS/COFINS"
+            }
+        ],
+        "Tutela Antecipada Antecedente": [
+            {
+                "id": 7100,
+                "text": "CSLL"
+            }
+        ]
+    }
+}
