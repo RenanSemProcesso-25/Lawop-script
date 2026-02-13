@@ -8,10 +8,10 @@ import subsidiesRpaSearch from './operations/subsidiesRpaSearch.js'
 import updateRpaLogs from './operations/update-rpa-logs.js'
 import updateTerms from './operations/update-terms.js'
 import createProgressProgressFields from './operations/create-progress-progress-fields.js'
+import updateRpaFields from './operations/update-rpa-fields.js'
 
 
-
-const operations = [updateCCRfields, updateGroupsColumns, refactorFields, subsidiesRpaSearch, updateRpaLogs, updateTerms, createProgressProgressFields]
+const operations = [updateCCRfields, updateGroupsColumns, refactorFields, subsidiesRpaSearch, updateRpaLogs, updateTerms, createProgressProgressFields, updateRpaFields]
 
 function ensureEnv() {
   const required = ['DATABASE_MONGO']

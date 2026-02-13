@@ -13,7 +13,9 @@
     "update-terms-dev": "clear && cross-env NODE_ENV=development node index.js operation=updateTerms",
     "update-terms-prod": "clear && cross-env NODE_ENV=production node index.js operation=updateTerms",
     "create-process-progress-fields-dev": "clear && cross-env NODE_ENV=development node index.js operation=createProgressProgressFields",
-    "create-process-progress-fields-prod": "clear && cross-env NODE_ENV=production node index.js operation=createProgressProgressFields"
+    "create-process-progress-fields-prod": "clear && cross-env NODE_ENV=production node index.js operation=createProgressProgressFields",
+    "update-rpa-fields-dev": "clear && cross-env NODE_ENV=production node index.js operation=updateRpaFields",
+    "update-rpa-fields-prod": "clear && cross-env NODE_ENV=production node index.js operation=updateRpaFields"
   },
   "dependencies": {
     "axios": "^1.13.2",

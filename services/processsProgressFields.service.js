@@ -19,9 +19,7 @@ export async function createProcessProgressField(processProgressField) {
 export async function getProcessProgressFields(where = {}) {
   try {
     const processProgressFields = await ProcessProgressFieldModel.find(where)
-    if(processProgressFields.length === 0) {
-        throw new Error('No ProcessProgressFields found')
-    }
+
     return processProgressFields
   } catch (error) {
     logError(error)
@@ -32,9 +30,6 @@ export async function getProcessProgressFields(where = {}) {
 export async function getProcessProgressField(where) {
     try {
         const processProgressField = await ProcessProgressFieldModel.findOne(where)
-        if(!processProgressField) {
-            throw new Error('No ProcessProgressField found')
-        }
         return processProgressField
     } catch (error) {
         logError(error)

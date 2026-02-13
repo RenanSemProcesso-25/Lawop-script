@@ -1,5 +1,5 @@
 import { logError } from "../utils/logs.js";
-import { getProcessProgressFields, createProcessProgressField, deleteProcessProgressField, deleteProcessProgressFields } from "../services/processsProgressFields.service.js";
+import { getProcessProgressFields, createProcessProgressField, deleteProcessProgressField, deleteProcessProgressFields, getProcessProgressField, updateProcessProgressField } from "../services/processsProgressFields.service.js";
 import readTableData from "../utils/readTableData.js";
 import mongoose from "mongoose";
 import { createKeyByLabelSimplefied } from "../utils/normalize.js";
@@ -102,19 +102,27 @@ async function formattFields() {
 
 async function createProgressProgressFields() {
     try {
-        await deleteProcessProgressFields({groupId})
+        // await deleteProcessProgressFields({groupId})
         const fieldsData = await formattFields()
         
         const createdFields = []
         for(const field of fieldsData) {
-            const createdField = await createProcessProgressField(field)
-            createdFields.push(createdField)
+            const findedField = await getProcessProgressField({groupId, key: field.key})
+            if(findedField) {
+              console.log('Atualizando campo ',field.label)
+              await updateProcessProgressField({groupId,key:field.key}, field)
+            }
+            else{
+              const createdField = await createProcessProgressField(field)
+              createdFields.push(createdField)
+            }
         }
 
         console.table(createdFields,['_id','label'])
         
     } catch (error) {
         logError(error)
+        throw error
     }
 }
 
