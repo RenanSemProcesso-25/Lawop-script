@@ -65,7 +65,8 @@ async function formattFields() {
           mask: row.mask || null,
           placeholder: row.placeholder || null,
           options: optionsMap[row.label] || [],
-          attached: attachedsMap[key] || []
+          attached: attachedsMap[key] || [],
+          hasAiSearch: row.hasAiSearch || false,
         }
       })
 
@@ -82,7 +83,8 @@ async function formattFields() {
           order: index,
           options: optionsMap[`${row.fieldParent}.${row.label}`] || [],
           attached: attachedsMap[`${parentKey}.${key}`] || [],
-          fieldParent: parentKey
+          fieldParent: parentKey,
+          hasAiSearch: row.hasAiSearch,
         }
       })
 
@@ -104,22 +106,28 @@ async function createProgressProgressFields() {
     try {
         // await deleteProcessProgressFields({groupId})
         const fieldsData = await formattFields()
+
+        const currentFormFields = await getProcessProgressFields({groupId})
+
+        for(const field of currentFormFields) {
+          const isFieldInNewData = fieldsData.some(f => f.key === field.key)
+          if(!isFieldInNewData) {
+            await deleteProcessProgressField({groupId, key: field.key})
+          }
+        }
         
-        const createdFields = []
         for(const field of fieldsData) {
-            const findedField = await getProcessProgressField({groupId, key: field.key})
+            const findedField = currentFormFields.find(f => f.key === field.key)
             if(findedField) {
               console.log('Atualizando campo ',field.label)
               await updateProcessProgressField({groupId,key:field.key}, field)
             }
             else{
-              const createdField = await createProcessProgressField(field)
-              createdFields.push(createdField)
+              console.log('Criando campo ', field.label)
+              await createProcessProgressField(field)
             }
         }
 
-        console.table(createdFields,['_id','label'])
-        
     } catch (error) {
         logError(error)
         throw error

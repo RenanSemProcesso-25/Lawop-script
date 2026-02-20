@@ -1,5 +1,5 @@
 import  ProcessProgressFieldModel  from '../models/processProgressField.model.js'
-import { logError, logWarning } from '../utils/logs.js'
+import { logError, logInfo, logWarning } from '../utils/logs.js'
 
 
 
@@ -82,6 +82,7 @@ export async function deleteProcessProgressField(where) {
         if(!deletedProcessProgressField) {
             throw new Error('No ProcessProgressField found to delete')
         }
+        logInfo(`Campo ${where?.key || where?._id} deletado com` )
         return deletedProcessProgressField
     } catch (error) {
         logError(error)

@@ -14,6 +14,7 @@ const processProgressFieldSchema = new Schema(
     toSubmit: { type: Boolean, default: true }, // if false, the field will not be submitted to the server.
     lawsuitNumber: { type: Boolean, default: false }, // if true, defines the lawsuit number.
     isMultipleField: { type: Boolean, default: true },
+    hasAiSearch: { type: Boolean, default: true },
 
     attached: [
       [
@@ -52,6 +53,15 @@ const processProgressFieldSchema = new Schema(
       {
         value: { type: String, required: true },
         label: { type: String, required: true },
+        attached: [
+          [
+            {
+              key: { type: String, default: null },
+              values: [{ type: String, default: null }],
+              hasValue: { type: Boolean, default: null },
+            },
+          ],
+        ],
       },
     ],
 
