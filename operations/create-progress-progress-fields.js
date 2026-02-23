@@ -3,8 +3,9 @@ import { getProcessProgressFields, createProcessProgressField, deleteProcessProg
 import readTableData from "../utils/readTableData.js";
 import mongoose from "mongoose";
 import { createKeyByLabelSimplefied } from "../utils/normalize.js";
+import { findGroup } from "../services/groups.service.js";
 
-const groupId = process.env.COGNA_GROUP_ID
+const groupId = process.env.APRESENTACAO_GROUP_ID
 
 function formattOptions(optionsData) {
     const optionsMap = {}
@@ -40,12 +41,93 @@ function formattAttacheds(attachedsData) {
     return depsMap
 }
 
+function formattOptionsAttacheds(optionsAttachedsData) {
+  /*
+    Estrutura final:
+
+    {
+      FIELD_KEY: [
+        {
+          optionValue: "X",
+          attached: [
+            [ { key, values[] }, { key, values[] } ],   // AND group
+            [ { key, values[] } ]                       // OR group
+          ]
+        }
+      ]
+    }
+  */
+
+  const map = {}
+
+  optionsAttachedsData.forEach(row => {
+    if (
+      !row.optionValue ||
+      !row.fieldKey ||
+      !row.attachedKeys ||
+      !row.attachedValues
+    ) return
+
+    const fieldKey = String(row.fieldKey).trim()
+    const optionValue = String(row.optionValue).trim()
+
+    const keys = String(row.attachedKeys)
+      .split(',')
+      .map(k => k.trim())
+      .filter(Boolean)
+
+    const valuesGroups = String(row.attachedValues)
+      .split(';')
+      .map(group =>
+        group
+          .split(',')
+          .map(v => String(v).trim())
+          .filter(Boolean)
+      )
+
+    if (keys.length !== valuesGroups.length) {
+      console.warn(
+        `Keys e Values incompatíveis para ${optionValue} (${fieldKey})`
+      )
+      return
+    }
+
+    // monta AND group
+    const andGroup = keys.map((key, index) => ({
+      key: key.split('.').pop(),
+      values: valuesGroups[index],
+    }))
+
+    if (!map[fieldKey]) map[fieldKey] = []
+
+    let optionEntry = map[fieldKey].find(
+      opt => opt.optionValue === optionValue
+    )
+
+    if (!optionEntry) {
+      optionEntry = {
+        optionValue,
+        attached: [],
+      }
+      map[fieldKey].push(optionEntry)
+    }
+
+    // cada linha adiciona um novo OR group
+    optionEntry.attached.push(andGroup)
+  })
+
+  return map
+}
+
 async function formattFields() {
 
-    const { fields, options, attacheds } = await readTableData({ fileName: 'cogna-process-progress-fields.xlsx' })
+    const group = await findGroup({_id: new mongoose.Types.ObjectId(groupId)})
+
+    const { fields, options, attacheds, optionsAttacheds } = await readTableData({ fileName: 'cogna-process-progress-fields.xlsx' })
 
     const optionsMap = formattOptions(options)
     const attachedsMap = formattAttacheds(attacheds)
+    const optionsAttachedsMap = formattOptionsAttacheds(optionsAttacheds)
 
     const rootFields = fields
       .filter(row => !row.fieldParent)
@@ -53,7 +135,7 @@ async function formattFields() {
         const key = createKeyByLabelSimplefied(row.label)
         return {
           groupId,
-          group: 'COGNA',
+          group: group.name,
           order: index,
           key,
           label: row.label,
@@ -64,7 +146,17 @@ async function formattFields() {
           isMultipleField: row.isMultipleField === undefined ? true : Boolean(row.isMultipleField),
           mask: row.mask || null,
           placeholder: row.placeholder || null,
-          options: optionsMap[row.label] || [],
+          options: (optionsMap[row.label] || []).map(opt => {
+            const attachedOption =
+              optionsAttachedsMap[key]?.find(
+                o => o.optionValue === opt.value
+              )
+
+            return {
+              ...opt,
+              attached: attachedOption?.attached || [],
+            }
+          }),
           attached: attachedsMap[key] || [],
           hasAiSearch: row.hasAiSearch || false,
         }
@@ -81,7 +173,17 @@ async function formattFields() {
           type: row.type,
           required: Boolean(row.required),
           order: index,
-          options: optionsMap[`${row.fieldParent}.${row.label}`] || [],
+          options: (optionsMap[row.label] || []).map(opt => {
+            const attachedOption =
+              optionsAttachedsMap[key]?.find(
+                o => o.optionValue === opt.value
+              )
+
+            return {
+              ...opt,
+              attached: attachedOption?.attached || [],
+            }
+          }),
           attached: attachedsMap[`${parentKey}.${key}`] || [],
           fieldParent: parentKey,
           hasAiSearch: row.hasAiSearch,
@@ -104,7 +206,6 @@ async function formattFields() {
 
 async function createProgressProgressFields() {
     try {
-        // await deleteProcessProgressFields({groupId})
         const fieldsData = await formattFields()
 
         const currentFormFields = await getProcessProgressFields({groupId})
